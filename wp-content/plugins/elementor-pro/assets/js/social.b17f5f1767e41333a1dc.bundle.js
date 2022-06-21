@@ -1,14 +1,76 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fsocial.b17f5f1767e41333a1dc.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjUsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc29jaWFsLmIxN2Y1ZjE3NjdlNDEzMzNhMWRjLmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.e2maz3sLOUlDTVniQUqTnzeIGZO-cbZmP7qN-R58P_FL6i9SS4DZ72AmFfvDBoSOaykCbJR-T3xUL_nDUdMY9CWihVKlnKGqXrmxmvuBMqwk8__CdhP5uQH0p7mErSW8CmIILT0f4xGUrVfpxJXUjTx9Ow83JETgpX6hADXI9UNKTMFDcPeStPIK_frJlACVNczZIam9jJG0D4K1kQu8otO46zlNAF1otkSChi9BZtnxcAxtqBpAM4_iP2SvJ-y70-R6YY6WVT5Gha01jk0NKASuyQHnNIZ_MTr-euq7wdkRDQID5TZZtKSYK6G6ed7xFemBnOx3laWzhMo2nGnGjg">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fsocial.b17f5f1767e41333a1dc.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjUsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc29jaWFsLmIxN2Y1ZjE3NjdlNDEzMzNhMWRjLmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.e2maz3sLOUlDTVniQUqTnzeIGZO-cbZmP7qN-R58P_FL6i9SS4DZ72AmFfvDBoSOaykCbJR-T3xUL_nDUdMY9CWihVKlnKGqXrmxmvuBMqwk8__CdhP5uQH0p7mErSW8CmIILT0f4xGUrVfpxJXUjTx9Ow83JETgpX6hADXI9UNKTMFDcPeStPIK_frJlACVNczZIam9jJG0D4K1kQu8otO46zlNAF1otkSChi9BZtnxcAxtqBpAM4_iP2SvJ-y70-R6YY6WVT5Gha01jk0NKASuyQHnNIZ_MTr-euq7wdkRDQID5TZZtKSYK6G6ed7xFemBnOx3laWzhMo2nGnGjg";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["social"],{
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fsocial.b17f5f1767e41333a1dc.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjUsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc29jaWFsLmIxN2Y1ZjE3NjdlNDEzMzNhMWRjLmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.e2maz3sLOUlDTVniQUqTnzeIGZO-cbZmP7qN-R58P_FL6i9SS4DZ72AmFfvDBoSOaykCbJR-T3xUL_nDUdMY9CWihVKlnKGqXrmxmvuBMqwk8__CdhP5uQH0p7mErSW8CmIILT0f4xGUrVfpxJXUjTx9Ow83JETgpX6hADXI9UNKTMFDcPeStPIK_frJlACVNczZIam9jJG0D4K1kQu8otO46zlNAF1otkSChi9BZtnxcAxtqBpAM4_iP2SvJ-y70-R6YY6WVT5Gha01jk0NKASuyQHnNIZ_MTr-euq7wdkRDQID5TZZtKSYK6G6ed7xFemBnOx3laWzhMo2nGnGjg">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fsocial.b17f5f1767e41333a1dc.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjUsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc29jaWFsLmIxN2Y1ZjE3NjdlNDEzMzNhMWRjLmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.e2maz3sLOUlDTVniQUqTnzeIGZO-cbZmP7qN-R58P_FL6i9SS4DZ72AmFfvDBoSOaykCbJR-T3xUL_nDUdMY9CWihVKlnKGqXrmxmvuBMqwk8__CdhP5uQH0p7mErSW8CmIILT0f4xGUrVfpxJXUjTx9Ow83JETgpX6hADXI9UNKTMFDcPeStPIK_frJlACVNczZIam9jJG0D4K1kQu8otO46zlNAF1otkSChi9BZtnxcAxtqBpAM4_iP2SvJ-y70-R6YY6WVT5Gha01jk0NKASuyQHnNIZ_MTr-euq7wdkRDQID5TZZtKSYK6G6ed7xFemBnOx3laWzhMo2nGnGjg</a></p>
-	</body>
-</html>
+/***/ "../modules/social/assets/js/frontend/handlers/facebook.js":
+/*!*****************************************************************!*\
+  !*** ../modules/social/assets/js/frontend/handlers/facebook.js ***!
+  \*****************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+class FacebookHandler extends elementorModules.frontend.handlers.Base {
+  getConfig() {
+    return elementorProFrontend.config.facebook_sdk;
+  }
+
+  setConfig(prop, value) {
+    elementorProFrontend.config.facebook_sdk[prop] = value;
+  }
+
+  parse() {
+    // On FB SDK is loaded, parse current element
+    FB.XFBML.parse(this.$element[0]);
+  }
+
+  loadSDK() {
+    const config = this.getConfig(); // Preventing from ajax request to be sent multiple times when loading multiple widgets
+
+    if (config.isLoading || config.isLoaded) {
+      return;
+    }
+
+    this.setConfig('isLoading', true);
+    jQuery.ajax({
+      url: 'https://connect.facebook.net/' + config.lang + '/sdk.js',
+      dataType: 'script',
+      cache: true,
+      success: () => {
+        FB.init({
+          appId: config.app_id,
+          version: 'v2.10',
+          xfbml: false
+        });
+        this.setConfig('isLoaded', true);
+        this.setConfig('isLoading', false);
+        elementorFrontend.elements.$document.trigger('fb:sdk:loaded');
+      }
+    });
+  }
+
+  onInit(...args) {
+    super.onInit(...args);
+    this.loadSDK();
+    const config = this.getConfig();
+
+    if (config.isLoaded) {
+      this.parse();
+    } else {
+      elementorFrontend.elements.$document.on('fb:sdk:loaded', () => this.parse());
+    }
+  }
+
+}
+
+exports.default = FacebookHandler;
+
+/***/ })
+
+}]);
+//# sourceMappingURL=social.b17f5f1767e41333a1dc.bundle.js.map
