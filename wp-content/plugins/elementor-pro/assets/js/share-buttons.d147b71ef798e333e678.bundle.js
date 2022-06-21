@@ -1,91 +1,14 @@
-/*! elementor-pro - v3.4.1 - 01-09-2021 */
-(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["share-buttons"],{
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fshare-buttons.d147b71ef798e333e678.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc2hhcmUtYnV0dG9ucy5kMTQ3YjcxZWY3OThlMzMzZTY3OC5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.fTcRQShpnuSgwhA88uSDWO-kktoqUv-HmOTFxs2OpHxAxdZr113EPd5E1QXoMgHwJGfZWhoBOzsDA7oo7RN-k1dW6aYfhrApNiJlVoKvxm1Ntvu9GtbdvzfDjrkIplzapLbPo7NaEjJL0KnvJPlnnIcQKRVIAJCbJLZAEIRGXBUllLkVwGiHHaWV7VGXPJW_q9QB44e07_WXvkrjkVLN8XenK5fFuyabvvN_T5uePYyXh2mal_0PUYydKHgLAPt2m_ftBq0r050gWsCUKThjzll9zRb9rgVLorrvSqDdJORxNicVzvWEn0AUepiiKHr5gJcln3iG4Yn_pKgxU6DpRQ">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fshare-buttons.d147b71ef798e333e678.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc2hhcmUtYnV0dG9ucy5kMTQ3YjcxZWY3OThlMzMzZTY3OC5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.fTcRQShpnuSgwhA88uSDWO-kktoqUv-HmOTFxs2OpHxAxdZr113EPd5E1QXoMgHwJGfZWhoBOzsDA7oo7RN-k1dW6aYfhrApNiJlVoKvxm1Ntvu9GtbdvzfDjrkIplzapLbPo7NaEjJL0KnvJPlnnIcQKRVIAJCbJLZAEIRGXBUllLkVwGiHHaWV7VGXPJW_q9QB44e07_WXvkrjkVLN8XenK5fFuyabvvN_T5uePYyXh2mal_0PUYydKHgLAPt2m_ftBq0r050gWsCUKThjzll9zRb9rgVLorrvSqDdJORxNicVzvWEn0AUepiiKHr5gJcln3iG4Yn_pKgxU6DpRQ";
+		</script>
 
-/***/ "../modules/share-buttons/assets/js/frontend/handlers/share-buttons.js":
-/*!*****************************************************************************!*\
-  !*** ../modules/share-buttons/assets/js/frontend/handlers/share-buttons.js ***!
-  \*****************************************************************************/
-/***/ ((__unused_webpack_module, exports) => {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", ({
-  value: true
-}));
-exports.default = void 0;
-
-var _default = elementorModules.frontend.handlers.Base.extend({
-  async onInit() {
-    if (!this.isActive()) {
-      return;
-    }
-
-    elementorModules.frontend.handlers.Base.prototype.onInit.apply(this, arguments);
-    const elementSettings = this.getElementSettings(),
-          classes = this.getSettings('classes'),
-          isCustomURL = elementSettings.share_url && elementSettings.share_url.url,
-          shareLinkSettings = {
-      classPrefix: classes.shareLinkPrefix
-    };
-
-    if (isCustomURL) {
-      shareLinkSettings.url = elementSettings.share_url.url;
-    } else {
-      shareLinkSettings.url = location.href;
-      shareLinkSettings.title = elementorFrontend.config.post.title;
-      shareLinkSettings.text = elementorFrontend.config.post.excerpt;
-      shareLinkSettings.image = elementorFrontend.config.post.featuredImage;
-    }
-    /**
-     * First check of the ShareLink is for detecting if the optimized mode is disabled and the library should be loaded dynamically.
-     * Checking if the assetsLoader exist, in case that the library is not loaded due to Ad Blockers and not because the optimized mode is enabled.
-     */
-
-
-    if (!window.ShareLink && elementorFrontend.utils.assetsLoader) {
-      await elementorFrontend.utils.assetsLoader.load('script', 'share-link');
-    }
-    /**
-     * The following condition should remain regardless of the share-link dynamic loading.
-     * Ad Blockers may block the share script. (/assets/lib/share-link/share-link.js).
-     */
-
-
-    if (!this.elements.$shareButton.shareLink) {
-      return;
-    }
-
-    this.elements.$shareButton.shareLink(shareLinkSettings);
-  },
-
-  getDefaultSettings() {
-    return {
-      selectors: {
-        shareButton: '.elementor-share-btn'
-      },
-      classes: {
-        shareLinkPrefix: 'elementor-share-btn_'
-      }
-    };
-  },
-
-  getDefaultElements() {
-    var selectors = this.getSettings('selectors');
-    return {
-      $shareButton: this.$element.find(selectors.shareButton)
-    };
-  },
-
-  isActive() {
-    return !elementorFrontend.isEditMode();
-  }
-
-});
-
-exports.default = _default;
-
-/***/ })
-
-}]);
-//# sourceMappingURL=share-buttons.d147b71ef798e333e678.bundle.js.map
+		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fshare-buttons.d147b71ef798e333e678.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc2hhcmUtYnV0dG9ucy5kMTQ3YjcxZWY3OThlMzMzZTY3OC5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.fTcRQShpnuSgwhA88uSDWO-kktoqUv-HmOTFxs2OpHxAxdZr113EPd5E1QXoMgHwJGfZWhoBOzsDA7oo7RN-k1dW6aYfhrApNiJlVoKvxm1Ntvu9GtbdvzfDjrkIplzapLbPo7NaEjJL0KnvJPlnnIcQKRVIAJCbJLZAEIRGXBUllLkVwGiHHaWV7VGXPJW_q9QB44e07_WXvkrjkVLN8XenK5fFuyabvvN_T5uePYyXh2mal_0PUYydKHgLAPt2m_ftBq0r050gWsCUKThjzll9zRb9rgVLorrvSqDdJORxNicVzvWEn0AUepiiKHr5gJcln3iG4Yn_pKgxU6DpRQ">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fshare-buttons.d147b71ef798e333e678.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc2hhcmUtYnV0dG9ucy5kMTQ3YjcxZWY3OThlMzMzZTY3OC5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.fTcRQShpnuSgwhA88uSDWO-kktoqUv-HmOTFxs2OpHxAxdZr113EPd5E1QXoMgHwJGfZWhoBOzsDA7oo7RN-k1dW6aYfhrApNiJlVoKvxm1Ntvu9GtbdvzfDjrkIplzapLbPo7NaEjJL0KnvJPlnnIcQKRVIAJCbJLZAEIRGXBUllLkVwGiHHaWV7VGXPJW_q9QB44e07_WXvkrjkVLN8XenK5fFuyabvvN_T5uePYyXh2mal_0PUYydKHgLAPt2m_ftBq0r050gWsCUKThjzll9zRb9rgVLorrvSqDdJORxNicVzvWEn0AUepiiKHr5gJcln3iG4Yn_pKgxU6DpRQ</a></p>
+	</body>
+</html>
