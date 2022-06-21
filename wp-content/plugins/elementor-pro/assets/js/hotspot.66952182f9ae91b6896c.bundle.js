@@ -1,14 +1,138 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fhotspot.66952182f9ae91b6896c.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjQsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvaG90c3BvdC42Njk1MjE4MmY5YWU5MWI2ODk2Yy5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.K8gY5JMrPF7R6vtCHFNxRBKbiNtpbWZUTKTlV1C6SCvosu8jSH2QkVWDZa0Y6nZ5SabcaPfVGr0rhBeDTyKXoPb0Ic-ALB8Cm49a8l_CffExkMm6HdCAz_moNaUoSNbiiDBZhsbXC84jYhxsarRwSC15XHfgc2zoJEoDfsdlomNn761S0_CeX43tXf9skOtVCwBb7nmVAa9pglVngRhaDUWZ8KcvT9zFDsdHW16xBMiQur0TNXSurNQCdgwM_2MkHVk8Kpqpk43_wVc9Evfww--k019oSLfUYHcrDU8juFPOJf3k-HXkoQ7Mlvk_9LcVOl5wQ7ZgmaNSwI_cyEGg1w">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fhotspot.66952182f9ae91b6896c.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjQsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvaG90c3BvdC42Njk1MjE4MmY5YWU5MWI2ODk2Yy5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.K8gY5JMrPF7R6vtCHFNxRBKbiNtpbWZUTKTlV1C6SCvosu8jSH2QkVWDZa0Y6nZ5SabcaPfVGr0rhBeDTyKXoPb0Ic-ALB8Cm49a8l_CffExkMm6HdCAz_moNaUoSNbiiDBZhsbXC84jYhxsarRwSC15XHfgc2zoJEoDfsdlomNn761S0_CeX43tXf9skOtVCwBb7nmVAa9pglVngRhaDUWZ8KcvT9zFDsdHW16xBMiQur0TNXSurNQCdgwM_2MkHVk8Kpqpk43_wVc9Evfww--k019oSLfUYHcrDU8juFPOJf3k-HXkoQ7Mlvk_9LcVOl5wQ7ZgmaNSwI_cyEGg1w";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["hotspot"],{
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fhotspot.66952182f9ae91b6896c.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjQsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvaG90c3BvdC42Njk1MjE4MmY5YWU5MWI2ODk2Yy5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.K8gY5JMrPF7R6vtCHFNxRBKbiNtpbWZUTKTlV1C6SCvosu8jSH2QkVWDZa0Y6nZ5SabcaPfVGr0rhBeDTyKXoPb0Ic-ALB8Cm49a8l_CffExkMm6HdCAz_moNaUoSNbiiDBZhsbXC84jYhxsarRwSC15XHfgc2zoJEoDfsdlomNn761S0_CeX43tXf9skOtVCwBb7nmVAa9pglVngRhaDUWZ8KcvT9zFDsdHW16xBMiQur0TNXSurNQCdgwM_2MkHVk8Kpqpk43_wVc9Evfww--k019oSLfUYHcrDU8juFPOJf3k-HXkoQ7Mlvk_9LcVOl5wQ7ZgmaNSwI_cyEGg1w">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fhotspot.66952182f9ae91b6896c.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjQsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvaG90c3BvdC42Njk1MjE4MmY5YWU5MWI2ODk2Yy5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.K8gY5JMrPF7R6vtCHFNxRBKbiNtpbWZUTKTlV1C6SCvosu8jSH2QkVWDZa0Y6nZ5SabcaPfVGr0rhBeDTyKXoPb0Ic-ALB8Cm49a8l_CffExkMm6HdCAz_moNaUoSNbiiDBZhsbXC84jYhxsarRwSC15XHfgc2zoJEoDfsdlomNn761S0_CeX43tXf9skOtVCwBb7nmVAa9pglVngRhaDUWZ8KcvT9zFDsdHW16xBMiQur0TNXSurNQCdgwM_2MkHVk8Kpqpk43_wVc9Evfww--k019oSLfUYHcrDU8juFPOJf3k-HXkoQ7Mlvk_9LcVOl5wQ7ZgmaNSwI_cyEGg1w</a></p>
-	</body>
-</html>
+/***/ "../modules/hotspot/assets/js/frontend/handlers/hotspot.js":
+/*!*****************************************************************!*\
+  !*** ../modules/hotspot/assets/js/frontend/handlers/hotspot.js ***!
+  \*****************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+class Hotspot extends elementorModules.frontend.handlers.Base {
+  getDefaultSettings() {
+    return {
+      selectors: {
+        hotspot: '.e-hotspot',
+        tooltip: '.e-hotspot__tooltip'
+      }
+    };
+  }
+
+  getDefaultElements() {
+    const selectors = this.getSettings('selectors');
+    return {
+      $hotspot: this.$element.find(selectors.hotspot),
+      $hotspotsExcludesLinks: this.$element.find(selectors.hotspot).filter(':not(.e-hotspot--no-tooltip)'),
+      $tooltip: this.$element.find(selectors.tooltip)
+    };
+  }
+
+  bindEvents() {
+    const tooltipTrigger = this.getCurrentDeviceSetting('tooltip_trigger'),
+          tooltipTriggerEvent = 'mouseenter' === tooltipTrigger ? 'mouseleave mouseenter' : tooltipTrigger;
+
+    if (tooltipTriggerEvent !== 'none') {
+      this.elements.$hotspotsExcludesLinks.on(tooltipTriggerEvent, event => this.onHotspotTriggerEvent(event));
+    }
+  }
+
+  onDeviceModeChange() {
+    this.elements.$hotspotsExcludesLinks.off();
+    this.bindEvents();
+  }
+
+  onHotspotTriggerEvent(event) {
+    const elementTarget = jQuery(event.target),
+          isHotspotButtonEvent = elementTarget.closest('.e-hotspot__button').length,
+          isTooltipMouseLeave = 'mouseleave' === event.type && (elementTarget.is('.e-hotspot--tooltip-position') || elementTarget.parents('.e-hotspot--tooltip-position').length),
+          isMobile = 'mobile' === elementorFrontend.getCurrentDeviceMode(),
+          isHotspotLink = elementTarget.closest('.e-hotspot--link').length,
+          triggerTooltip = !(isHotspotLink && isMobile && ('mouseleave' === event.type || 'mouseenter' === event.type));
+
+    if (triggerTooltip && (isHotspotButtonEvent || isTooltipMouseLeave)) {
+      const currentHotspot = jQuery(event.currentTarget);
+      this.elements.$hotspot.not(currentHotspot).removeClass('e-hotspot--active');
+      currentHotspot.toggleClass('e-hotspot--active');
+    }
+  } // Fix bad UX of "Sequenced Animation" when editing other controls
+
+
+  editorAddSequencedAnimation() {
+    this.elements.$hotspot.toggleClass('e-hotspot--sequenced', 'yes' === this.getElementSettings('hotspot_sequenced_animation'));
+  }
+
+  hotspotSequencedAnimation() {
+    const elementSettings = this.getElementSettings(),
+          isSequencedAnimation = elementSettings.hotspot_sequenced_animation;
+
+    if ('no' === isSequencedAnimation) {
+      return;
+    } //start sequenced animation when element on viewport
+
+
+    const hotspotObserver = elementorModules.utils.Scroll.scrollObserver({
+      callback: event => {
+        if (event.isInViewport) {
+          hotspotObserver.unobserve(this.$element[0]); //add delay for each hotspot
+
+          this.elements.$hotspot.each((index, element) => {
+            if (0 === index) {
+              return;
+            }
+
+            const sequencedAnimation = elementSettings.hotspot_sequenced_animation_duration,
+                  sequencedAnimationDuration = sequencedAnimation ? sequencedAnimation.size : 1000,
+                  animationDelay = index * (sequencedAnimationDuration / this.elements.$hotspot.length);
+            element.style.animationDelay = animationDelay + 'ms';
+          });
+        }
+      }
+    });
+    hotspotObserver.observe(this.$element[0]);
+  }
+
+  setTooltipPositionControl() {
+    const elementSettings = this.getElementSettings(),
+          isDirectionAnimation = 'undefined' !== typeof elementSettings.tooltip_animation && elementSettings.tooltip_animation.match(/^e-hotspot--(slide|fade)-direction/);
+
+    if (isDirectionAnimation) {
+      this.elements.$tooltip.removeClass('e-hotspot--tooltip-animation-from-left e-hotspot--tooltip-animation-from-top e-hotspot--tooltip-animation-from-right e-hotspot--tooltip-animation-from-bottom');
+      this.elements.$tooltip.addClass('e-hotspot--tooltip-animation-from-' + elementSettings.tooltip_position);
+    }
+  }
+
+  onInit(...args) {
+    super.onInit(...args);
+    this.hotspotSequencedAnimation();
+    this.setTooltipPositionControl();
+
+    if (window.elementor) {
+      elementor.listenTo(elementor.channels.deviceMode, 'change', () => this.onDeviceModeChange());
+    }
+  }
+
+  onElementChange(propertyName) {
+    if (propertyName.startsWith('tooltip_position')) {
+      this.setTooltipPositionControl();
+    }
+
+    if (propertyName.startsWith('hotspot_sequenced_animation')) {
+      this.editorAddSequencedAnimation();
+    }
+  }
+
+}
+
+exports.default = Hotspot;
+
+/***/ })
+
+}]);
+//# sourceMappingURL=hotspot.66952182f9ae91b6896c.bundle.js.map
