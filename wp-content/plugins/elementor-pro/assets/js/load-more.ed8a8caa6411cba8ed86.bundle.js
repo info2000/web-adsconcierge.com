@@ -1,14 +1,189 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fload-more.ed8a8caa6411cba8ed86.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjQsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvbG9hZC1tb3JlLmVkOGE4Y2FhNjQxMWNiYThlZDg2LmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.h-mGni4r9ptk7j_3dv3Y2HRS5ox9C7tA8YwilpKmR0hv-asXv8D6sXytsdSf-nlEtZklWOGbMhQobhaMp1UUrTuCYCXdx4Mt4w2DNaDbGI_3EUi1oTRbtqd5QZSy5Hho5JhdyPCrlM2YJx6VAaReqQAfe_fePAGHcKrdmVaN_OyQeAtFbsFZxL_8vyIAdBwu_SakpCpduFSQ4mWUsEh56JhwbW8p5e1Feh4LKc045-WsIOFXUv0QFaE8bcwsOOBBsrXK4-ibIAbIjgwi5o84p5npx_QD38afatMSsUKeoIA-BZvn8omMaNp-bADRJXdba89k3nWyJDxJYggW_b7J5Q">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fload-more.ed8a8caa6411cba8ed86.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjQsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvbG9hZC1tb3JlLmVkOGE4Y2FhNjQxMWNiYThlZDg2LmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.h-mGni4r9ptk7j_3dv3Y2HRS5ox9C7tA8YwilpKmR0hv-asXv8D6sXytsdSf-nlEtZklWOGbMhQobhaMp1UUrTuCYCXdx4Mt4w2DNaDbGI_3EUi1oTRbtqd5QZSy5Hho5JhdyPCrlM2YJx6VAaReqQAfe_fePAGHcKrdmVaN_OyQeAtFbsFZxL_8vyIAdBwu_SakpCpduFSQ4mWUsEh56JhwbW8p5e1Feh4LKc045-WsIOFXUv0QFaE8bcwsOOBBsrXK4-ibIAbIjgwi5o84p5npx_QD38afatMSsUKeoIA-BZvn8omMaNp-bADRJXdba89k3nWyJDxJYggW_b7J5Q";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["load-more"],{
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fload-more.ed8a8caa6411cba8ed86.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjQsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvbG9hZC1tb3JlLmVkOGE4Y2FhNjQxMWNiYThlZDg2LmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.h-mGni4r9ptk7j_3dv3Y2HRS5ox9C7tA8YwilpKmR0hv-asXv8D6sXytsdSf-nlEtZklWOGbMhQobhaMp1UUrTuCYCXdx4Mt4w2DNaDbGI_3EUi1oTRbtqd5QZSy5Hho5JhdyPCrlM2YJx6VAaReqQAfe_fePAGHcKrdmVaN_OyQeAtFbsFZxL_8vyIAdBwu_SakpCpduFSQ4mWUsEh56JhwbW8p5e1Feh4LKc045-WsIOFXUv0QFaE8bcwsOOBBsrXK4-ibIAbIjgwi5o84p5npx_QD38afatMSsUKeoIA-BZvn8omMaNp-bADRJXdba89k3nWyJDxJYggW_b7J5Q">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fload-more.ed8a8caa6411cba8ed86.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2NCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjQsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvbG9hZC1tb3JlLmVkOGE4Y2FhNjQxMWNiYThlZDg2LmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.h-mGni4r9ptk7j_3dv3Y2HRS5ox9C7tA8YwilpKmR0hv-asXv8D6sXytsdSf-nlEtZklWOGbMhQobhaMp1UUrTuCYCXdx4Mt4w2DNaDbGI_3EUi1oTRbtqd5QZSy5Hho5JhdyPCrlM2YJx6VAaReqQAfe_fePAGHcKrdmVaN_OyQeAtFbsFZxL_8vyIAdBwu_SakpCpduFSQ4mWUsEh56JhwbW8p5e1Feh4LKc045-WsIOFXUv0QFaE8bcwsOOBBsrXK4-ibIAbIjgwi5o84p5npx_QD38afatMSsUKeoIA-BZvn8omMaNp-bADRJXdba89k3nWyJDxJYggW_b7J5Q</a></p>
-	</body>
-</html>
+/***/ "../modules/posts/assets/js/frontend/handlers/load-more.js":
+/*!*****************************************************************!*\
+  !*** ../modules/posts/assets/js/frontend/handlers/load-more.js ***!
+  \*****************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+class LoadMore extends elementorModules.frontend.handlers.Base {
+  getDefaultSettings() {
+    return {
+      selectors: {
+        postsContainer: '.elementor-posts-container',
+        loadMoreButton: '.elementor-button',
+        loadMoreSpinnerWrapper: '.e-load-more-spinner',
+        loadMoreSpinner: '.e-load-more-spinner i, .e-load-more-spinner svg',
+        loadMoreAnchor: '.e-load-more-anchor'
+      },
+      classes: {
+        loadMoreSpin: 'eicon-animation-spin',
+        loadMoreIsLoading: 'e-load-more-pagination-loading',
+        loadMorePaginationEnd: 'e-load-more-pagination-end',
+        loadMoreNoSpinner: 'e-load-more-no-spinner'
+      }
+    };
+  }
+
+  getDefaultElements() {
+    const selectors = this.getSettings('selectors');
+    return {
+      postsWidgetWrapper: this.$element[0],
+      postsContainer: this.$element[0].querySelector(selectors.postsContainer),
+      loadMoreButton: this.$element[0].querySelector(selectors.loadMoreButton),
+      loadMoreSpinnerWrapper: this.$element[0].querySelector(selectors.loadMoreSpinnerWrapper),
+      loadMoreSpinner: this.$element[0].querySelector(selectors.loadMoreSpinner),
+      loadMoreAnchor: this.$element[0].querySelector(selectors.loadMoreAnchor)
+    };
+  }
+
+  bindEvents() {
+    super.bindEvents(); // Handle load more functionality for on-click type.
+
+    if (!this.elements.loadMoreButton) {
+      return;
+    }
+
+    this.elements.loadMoreButton.addEventListener('click', event => {
+      if (this.isLoading) {
+        return;
+      }
+
+      event.preventDefault();
+      this.handlePostsQuery();
+    });
+  }
+
+  onInit() {
+    super.onInit();
+    this.classes = this.getSettings('classes');
+    this.isLoading = false;
+    const paginationType = this.getElementSettings('pagination_type');
+
+    if ('load_more_on_click' !== paginationType && 'load_more_infinite_scroll' !== paginationType) {
+      return;
+    }
+
+    this.isInfinteScroll = 'load_more_infinite_scroll' === paginationType; // When spinner is not available, the button's text should not be hidden.
+
+    this.isSpinnerAvailable = this.getElementSettings('load_more_spinner').value;
+
+    if (!this.isSpinnerAvailable) {
+      this.elements.postsWidgetWrapper.classList.add(this.classes.loadMoreNoSpinner);
+    }
+
+    if (this.isInfinteScroll) {
+      this.handleInfiniteScroll();
+    } else if (this.elements.loadMoreSpinnerWrapper) {
+      // Instead of creating 2 spinners for on-click and infinity-scroll, one spinner will be used so it should be appended to the button in on-click mode.
+      this.elements.loadMoreButton.insertAdjacentElement('beforeEnd', this.elements.loadMoreSpinnerWrapper);
+    } // Set the post id and element id for the ajax request.
+
+
+    this.elementId = this.getID();
+    this.postId = elementorFrontendConfig.post.id; // Set the current page and last page for handling the load more post and when no more posts to show.
+
+    this.currentPage = parseInt(this.elements.loadMoreAnchor.getAttribute('data-page'));
+    this.maxPage = parseInt(this.elements.loadMoreAnchor.getAttribute('data-max-page'));
+
+    if (this.currentPage === this.maxPage) {
+      this.handleUiWhenNoPosts();
+    }
+  } // Handle load more functionality for infinity-scroll type.
+
+
+  handleInfiniteScroll() {
+    if (this.isEdit) {
+      return;
+    }
+
+    this.observer = elementorModules.utils.Scroll.scrollObserver({
+      callback: event => {
+        if (!event.isInViewport || this.isLoading) {
+          return;
+        } // When the observer is triggered it won't be triggered without scrolling, but sometimes there will be no scrollbar to trigger it again.
+
+
+        this.observer.unobserve(this.elements.loadMoreAnchor);
+        this.handlePostsQuery().then(() => {
+          if (this.currentPage !== this.maxPage) {
+            this.observer.observe(this.elements.loadMoreAnchor);
+          }
+        });
+      }
+    });
+    this.observer.observe(this.elements.loadMoreAnchor);
+  }
+
+  handleUiBeforeLoading() {
+    this.isLoading = true;
+
+    if (this.elements.loadMoreSpinner) {
+      this.elements.loadMoreSpinner.classList.add(this.classes.loadMoreSpin);
+    }
+
+    this.elements.postsWidgetWrapper.classList.add(this.classes.loadMoreIsLoading);
+  }
+
+  handleUiAfterLoading() {
+    this.isLoading = false;
+
+    if (this.elements.loadMoreSpinner) {
+      this.elements.loadMoreSpinner.classList.remove(this.classes.loadMoreSpin);
+    }
+
+    if (this.isInfinteScroll && this.elements.loadMoreSpinnerWrapper) {
+      // Since the spinner has to be shown after the new content (posts), it should be appended after the anchor element.
+      this.elements.loadMoreAnchor.insertAdjacentElement('afterend', this.elements.loadMoreSpinnerWrapper);
+    }
+
+    this.elements.postsWidgetWrapper.classList.remove(this.classes.loadMoreIsLoading);
+  }
+
+  handleUiWhenNoPosts() {
+    this.elements.postsWidgetWrapper.classList.add(this.classes.loadMorePaginationEnd);
+  }
+
+  handleSuccessFetch(result) {
+    this.handleUiAfterLoading();
+    const html = document.createElement('div');
+    html.innerHTML = result.content;
+    const posts = html.querySelectorAll('.elementor-posts-container > article'); // Converting HTMLCollection to an Array and iterate it.
+
+    const postsHTML = [...posts].reduce((accumulator, post) => {
+      return accumulator + post.outerHTML;
+    }, '');
+    this.elements.postsContainer.insertAdjacentHTML('beforeend', postsHTML);
+    this.elements.loadMoreAnchor.setAttribute('data-page', this.currentPage);
+
+    if (this.currentPage === this.maxPage) {
+      this.handleUiWhenNoPosts();
+    }
+  }
+
+  handlePostsQuery() {
+    this.handleUiBeforeLoading();
+    this.currentPage++;
+    const restUrl = `${ElementorProFrontendConfig.urls.rest}elementor-pro/v1/posts-widget?post_id=${this.postId}&element_id=${this.elementId}&page=${this.currentPage}`;
+    return fetch(restUrl).then(response => response.json()).then(result => {
+      this.handleSuccessFetch(result);
+    });
+  }
+
+}
+
+exports.default = LoadMore;
+
+/***/ })
+
+}]);
+//# sourceMappingURL=load-more.ed8a8caa6411cba8ed86.bundle.js.map
