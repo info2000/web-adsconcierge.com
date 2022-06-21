@@ -1,14 +1,60 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fcss%2Fpreview-rtl.css&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc1OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NTksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9jc3NcL3ByZXZpZXctcnRsLmNzcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.QLNpBlQZKuaugTXRErU9axrGXOSw5-j5GFEC2J-W53oFgXn3WCZNMxKcO6PtWP8kszV089zeG6eJBhaEbw5ntX6yIXsGt-gGIAwRL2cuWvztF_VUYfNNsO4gj3RTsaFTUuZ0tvuLZazS4zvfctbhnHruN8l1Z8MwOpPPsPQitKvAxssdmjxnCk1hm6UzYvEZgDNzqOusxS8fLinyCXLfLOdvEagqkKzLBUVrxDi_59Jn950N18ANXaRcu867hMrctVoXXtJgzlM-jgymymMJ0cNseu6loNPYI2C7qE95RssjhMMXitugnkQeLAchGMFBEZ022rCMLZ8405YPnS6_PA">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fcss%2Fpreview-rtl.css&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc1OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NTksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9jc3NcL3ByZXZpZXctcnRsLmNzcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.QLNpBlQZKuaugTXRErU9axrGXOSw5-j5GFEC2J-W53oFgXn3WCZNMxKcO6PtWP8kszV089zeG6eJBhaEbw5ntX6yIXsGt-gGIAwRL2cuWvztF_VUYfNNsO4gj3RTsaFTUuZ0tvuLZazS4zvfctbhnHruN8l1Z8MwOpPPsPQitKvAxssdmjxnCk1hm6UzYvEZgDNzqOusxS8fLinyCXLfLOdvEagqkKzLBUVrxDi_59Jn950N18ANXaRcu867hMrctVoXXtJgzlM-jgymymMJ0cNseu6loNPYI2C7qE95RssjhMMXitugnkQeLAchGMFBEZ022rCMLZ8405YPnS6_PA";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+.elementor-document-handle {
+  display: none;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: absolute;
+  z-index: 100;
+  top: 0;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+  background-color: #fcb92c;
+  padding: 5px 10px;
+  font-family: Roboto, Arial, Helvetica, Verdana, sans-serif;
+  font-size: 11px;
+  color: #fff;
+  border-radius: 0 0 3px 3px;
+  cursor: pointer; }
+  .elementor-document-handle:before, .elementor-document-handle:after {
+    content: '';
+    position: absolute;
+    border: solid transparent; }
+  .elementor-document-handle:before {
+    right: calc(100% - 1px);
+    border-right-color: #fcb92c;
+    border-width: 0 14px 23px 0; }
+  .elementor-document-handle:after {
+    left: calc(100% - 1px);
+    border-left-color: #fcb92c;
+    border-width: 0 0 23px 14px; }
+  .elementor-document-handle .eicon-edit {
+    margin-left: 5px; }
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fcss%2Fpreview-rtl.css&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc1OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NTksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9jc3NcL3ByZXZpZXctcnRsLmNzcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.QLNpBlQZKuaugTXRErU9axrGXOSw5-j5GFEC2J-W53oFgXn3WCZNMxKcO6PtWP8kszV089zeG6eJBhaEbw5ntX6yIXsGt-gGIAwRL2cuWvztF_VUYfNNsO4gj3RTsaFTUuZ0tvuLZazS4zvfctbhnHruN8l1Z8MwOpPPsPQitKvAxssdmjxnCk1hm6UzYvEZgDNzqOusxS8fLinyCXLfLOdvEagqkKzLBUVrxDi_59Jn950N18ANXaRcu867hMrctVoXXtJgzlM-jgymymMJ0cNseu6loNPYI2C7qE95RssjhMMXitugnkQeLAchGMFBEZ022rCMLZ8405YPnS6_PA">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fcss%2Fpreview-rtl.css&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc1OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NTksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9jc3NcL3ByZXZpZXctcnRsLmNzcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.QLNpBlQZKuaugTXRErU9axrGXOSw5-j5GFEC2J-W53oFgXn3WCZNMxKcO6PtWP8kszV089zeG6eJBhaEbw5ntX6yIXsGt-gGIAwRL2cuWvztF_VUYfNNsO4gj3RTsaFTUuZ0tvuLZazS4zvfctbhnHruN8l1Z8MwOpPPsPQitKvAxssdmjxnCk1hm6UzYvEZgDNzqOusxS8fLinyCXLfLOdvEagqkKzLBUVrxDi_59Jn950N18ANXaRcu867hMrctVoXXtJgzlM-jgymymMJ0cNseu6loNPYI2C7qE95RssjhMMXitugnkQeLAchGMFBEZ022rCMLZ8405YPnS6_PA</a></p>
-	</body>
-</html>
+.elementor-editor-active .elementor {
+  position: relative; }
+  .elementor-editor-active .elementor:not(.elementor-edit-mode):hover {
+    -webkit-box-shadow: 0 0 0 1px #fcb92c;
+            box-shadow: 0 0 0 1px #fcb92c; }
+    .elementor-editor-active .elementor:not(.elementor-edit-mode):hover .elementor-document-handle {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      line-height: initial; }
+  .elementor-editor-active .elementor.loading {
+    opacity: 0.5; }
+  .elementor-editor-active .elementor[data-elementor-type="single"] > .elementor-document-handle {
+    -webkit-transform: translateX(-50%) translateY(-100%);
+        -ms-transform: translateX(-50%) translateY(-100%);
+            transform: translateX(-50%) translateY(-100%);
+    border-radius: 3px 3px 0 0; }
+    .elementor-editor-active .elementor[data-elementor-type="single"] > .elementor-document-handle:before {
+      border-width: 23px 14px 0 0; }
+    .elementor-editor-active .elementor[data-elementor-type="single"] > .elementor-document-handle:after {
+      border-width: 23px 0 0 14px; }
+
+.elementor-embedded-editor.elementor-location-header .elementor-section-wrap:not(:empty) + #elementor-add-new-section {
+  display: none; }
+/*# sourceMappingURL=preview-rtl.css.map */
