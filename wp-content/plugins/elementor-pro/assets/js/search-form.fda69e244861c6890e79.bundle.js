@@ -1,14 +1,115 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fsearch-form.fda69e244861c6890e79.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2Nywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjcsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc2VhcmNoLWZvcm0uZmRhNjllMjQ0ODYxYzY4OTBlNzkuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.QtpWMKNH8GdUpNyRpZmu0ATljNDdFc2-vz8smR0ko4bql0YO48Th34HjTprVx9luWMguxYP3hnhvIgIGT0YxcQU70bBOpCUjMXW0Xb0eODX_OtgZaGCdOpirFY3bq1lWW_oFsQsuUyWLKHoqRD7yHrfszUq2NVyMO1CCKdpz1dlA2K53k_q10dmJLn38oCFPQe_Un_Ni3zDX03USr3ONJCKpYGgPTwiaVIyBvWJWXKEAs_a6ATj9U5dexKt1cVMf7k_vNdsIphjpARqP5Sjpz3idWLPME_0urpM72MYLKjEX4nLY5lLW9icAyiBTR0gwYkTPdDbUrRk5RFBrbhe4-Q">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fsearch-form.fda69e244861c6890e79.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2Nywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjcsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc2VhcmNoLWZvcm0uZmRhNjllMjQ0ODYxYzY4OTBlNzkuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.QtpWMKNH8GdUpNyRpZmu0ATljNDdFc2-vz8smR0ko4bql0YO48Th34HjTprVx9luWMguxYP3hnhvIgIGT0YxcQU70bBOpCUjMXW0Xb0eODX_OtgZaGCdOpirFY3bq1lWW_oFsQsuUyWLKHoqRD7yHrfszUq2NVyMO1CCKdpz1dlA2K53k_q10dmJLn38oCFPQe_Un_Ni3zDX03USr3ONJCKpYGgPTwiaVIyBvWJWXKEAs_a6ATj9U5dexKt1cVMf7k_vNdsIphjpARqP5Sjpz3idWLPME_0urpM72MYLKjEX4nLY5lLW9icAyiBTR0gwYkTPdDbUrRk5RFBrbhe4-Q";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["search-form"],{
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fsearch-form.fda69e244861c6890e79.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2Nywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjcsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc2VhcmNoLWZvcm0uZmRhNjllMjQ0ODYxYzY4OTBlNzkuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.QtpWMKNH8GdUpNyRpZmu0ATljNDdFc2-vz8smR0ko4bql0YO48Th34HjTprVx9luWMguxYP3hnhvIgIGT0YxcQU70bBOpCUjMXW0Xb0eODX_OtgZaGCdOpirFY3bq1lWW_oFsQsuUyWLKHoqRD7yHrfszUq2NVyMO1CCKdpz1dlA2K53k_q10dmJLn38oCFPQe_Un_Ni3zDX03USr3ONJCKpYGgPTwiaVIyBvWJWXKEAs_a6ATj9U5dexKt1cVMf7k_vNdsIphjpARqP5Sjpz3idWLPME_0urpM72MYLKjEX4nLY5lLW9icAyiBTR0gwYkTPdDbUrRk5RFBrbhe4-Q">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=f5780cff80e3a23790886593af9d298550ba50cba0b1461f7a6464f0a6c27be3&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fsearch-form.fda69e244861c6890e79.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NTgyNjc2Nywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6ImY1NzgwY2ZmODBlM2EyMzc5MDg4NjU5M2FmOWQyOTg1NTBiYTUwY2JhMGIxNDYxZjdhNjQ2NGYwYTZjMjdiZTMiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTU4MjY3NjcsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvc2VhcmNoLWZvcm0uZmRhNjllMjQ0ODYxYzY4OTBlNzkuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.QtpWMKNH8GdUpNyRpZmu0ATljNDdFc2-vz8smR0ko4bql0YO48Th34HjTprVx9luWMguxYP3hnhvIgIGT0YxcQU70bBOpCUjMXW0Xb0eODX_OtgZaGCdOpirFY3bq1lWW_oFsQsuUyWLKHoqRD7yHrfszUq2NVyMO1CCKdpz1dlA2K53k_q10dmJLn38oCFPQe_Un_Ni3zDX03USr3ONJCKpYGgPTwiaVIyBvWJWXKEAs_a6ATj9U5dexKt1cVMf7k_vNdsIphjpARqP5Sjpz3idWLPME_0urpM72MYLKjEX4nLY5lLW9icAyiBTR0gwYkTPdDbUrRk5RFBrbhe4-Q</a></p>
-	</body>
-</html>
+/***/ "../modules/theme-elements/assets/js/frontend/handlers/search-form.js":
+/*!****************************************************************************!*\
+  !*** ../modules/theme-elements/assets/js/frontend/handlers/search-form.js ***!
+  \****************************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+var _default = elementorModules.frontend.handlers.Base.extend({
+  getDefaultSettings() {
+    return {
+      selectors: {
+        wrapper: '.elementor-search-form',
+        container: '.elementor-search-form__container',
+        icon: '.elementor-search-form__icon',
+        input: '.elementor-search-form__input',
+        toggle: '.elementor-search-form__toggle',
+        submit: '.elementor-search-form__submit',
+        closeButton: '.dialog-close-button'
+      },
+      classes: {
+        isFocus: 'elementor-search-form--focus',
+        isFullScreen: 'elementor-search-form--full-screen',
+        lightbox: 'elementor-lightbox'
+      }
+    };
+  },
+
+  getDefaultElements() {
+    var selectors = this.getSettings('selectors'),
+        elements = {};
+    elements.$wrapper = this.$element.find(selectors.wrapper);
+    elements.$container = this.$element.find(selectors.container);
+    elements.$input = this.$element.find(selectors.input);
+    elements.$icon = this.$element.find(selectors.icon);
+    elements.$toggle = this.$element.find(selectors.toggle);
+    elements.$submit = this.$element.find(selectors.submit);
+    elements.$closeButton = this.$element.find(selectors.closeButton);
+    return elements;
+  },
+
+  bindEvents() {
+    var self = this,
+        $container = self.elements.$container,
+        $closeButton = self.elements.$closeButton,
+        $input = self.elements.$input,
+        $wrapper = self.elements.$wrapper,
+        $icon = self.elements.$icon,
+        skin = this.getElementSettings('skin'),
+        classes = this.getSettings('classes');
+
+    if ('full_screen' === skin) {
+      // Activate full-screen mode on click
+      self.elements.$toggle.on('click', function () {
+        $container.toggleClass(classes.isFullScreen).toggleClass(classes.lightbox);
+        $input.trigger('focus');
+      }); // Deactivate full-screen mode on click or on esc.
+
+      $container.on('click', function (event) {
+        if ($container.hasClass(classes.isFullScreen) && $container[0] === event.target) {
+          $container.removeClass(classes.isFullScreen).removeClass(classes.lightbox);
+        }
+      });
+      $closeButton.on('click', function () {
+        $container.removeClass(classes.isFullScreen).removeClass(classes.lightbox);
+      });
+      elementorFrontend.elements.$document.on('keyup', function (event) {
+        var ESC_KEY = 27;
+
+        if (ESC_KEY === event.keyCode) {
+          if ($container.hasClass(classes.isFullScreen)) {
+            $container.trigger('click');
+          }
+        }
+      });
+    } else {
+      // Apply focus style on wrapper element when input is focused
+      $input.on({
+        focus() {
+          $wrapper.addClass(classes.isFocus);
+        },
+
+        blur() {
+          $wrapper.removeClass(classes.isFocus);
+        }
+
+      });
+    }
+
+    if ('minimal' === skin) {
+      // Apply focus style on wrapper element when icon is clicked in minimal skin
+      $icon.on('click', function () {
+        $wrapper.addClass(classes.isFocus);
+        $input.trigger('focus');
+      });
+    }
+  }
+
+});
+
+exports.default = _default;
+
+/***/ })
+
+}]);
+//# sourceMappingURL=search-form.fda69e244861c6890e79.bundle.js.map
