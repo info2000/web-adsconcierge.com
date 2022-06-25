@@ -1,14 +1,212 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fposts.c23c8d29f44afbd62da6.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcG9zdHMuYzIzYzhkMjlmNDRhZmJkNjJkYTYuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.AW3PM-FbILVx4SyhyrJ69ZdTjdSdRmXSd5sn7NDFLxJvfUCoK0hgPrRZsl8nNnwHH_tmFaK5v3M60p7zWYFrmC0keODO9WhHpT4iW0dIahNS-2QPaDzM-hEk7gFalyQ6Y4POjcaQ4cJ94nX9q4VpOzSJOMu9cI_aORYcGdGU65YyOurKATtUU29-8quDoNqnrXeoGGNxov-TP8nrLKwJLvET5UOgFTrLwm8EhxJr5ZrESxku1ZkGwn7e0DFMMurFYxKABwnUBEWhKRgRC3oYO4s6itduHwW9ay4pavn9myeF9l3qrGK7uooTGY-wtljyYST6EFI9SHdpmZuyGd4KIQ">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fposts.c23c8d29f44afbd62da6.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcG9zdHMuYzIzYzhkMjlmNDRhZmJkNjJkYTYuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.AW3PM-FbILVx4SyhyrJ69ZdTjdSdRmXSd5sn7NDFLxJvfUCoK0hgPrRZsl8nNnwHH_tmFaK5v3M60p7zWYFrmC0keODO9WhHpT4iW0dIahNS-2QPaDzM-hEk7gFalyQ6Y4POjcaQ4cJ94nX9q4VpOzSJOMu9cI_aORYcGdGU65YyOurKATtUU29-8quDoNqnrXeoGGNxov-TP8nrLKwJLvET5UOgFTrLwm8EhxJr5ZrESxku1ZkGwn7e0DFMMurFYxKABwnUBEWhKRgRC3oYO4s6itduHwW9ay4pavn9myeF9l3qrGK7uooTGY-wtljyYST6EFI9SHdpmZuyGd4KIQ";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["posts"],{
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fposts.c23c8d29f44afbd62da6.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcG9zdHMuYzIzYzhkMjlmNDRhZmJkNjJkYTYuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.AW3PM-FbILVx4SyhyrJ69ZdTjdSdRmXSd5sn7NDFLxJvfUCoK0hgPrRZsl8nNnwHH_tmFaK5v3M60p7zWYFrmC0keODO9WhHpT4iW0dIahNS-2QPaDzM-hEk7gFalyQ6Y4POjcaQ4cJ94nX9q4VpOzSJOMu9cI_aORYcGdGU65YyOurKATtUU29-8quDoNqnrXeoGGNxov-TP8nrLKwJLvET5UOgFTrLwm8EhxJr5ZrESxku1ZkGwn7e0DFMMurFYxKABwnUBEWhKRgRC3oYO4s6itduHwW9ay4pavn9myeF9l3qrGK7uooTGY-wtljyYST6EFI9SHdpmZuyGd4KIQ">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fposts.c23c8d29f44afbd62da6.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcG9zdHMuYzIzYzhkMjlmNDRhZmJkNjJkYTYuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.AW3PM-FbILVx4SyhyrJ69ZdTjdSdRmXSd5sn7NDFLxJvfUCoK0hgPrRZsl8nNnwHH_tmFaK5v3M60p7zWYFrmC0keODO9WhHpT4iW0dIahNS-2QPaDzM-hEk7gFalyQ6Y4POjcaQ4cJ94nX9q4VpOzSJOMu9cI_aORYcGdGU65YyOurKATtUU29-8quDoNqnrXeoGGNxov-TP8nrLKwJLvET5UOgFTrLwm8EhxJr5ZrESxku1ZkGwn7e0DFMMurFYxKABwnUBEWhKRgRC3oYO4s6itduHwW9ay4pavn9myeF9l3qrGK7uooTGY-wtljyYST6EFI9SHdpmZuyGd4KIQ</a></p>
-	</body>
-</html>
+/***/ "../modules/posts/assets/js/frontend/handlers/cards.js":
+/*!*************************************************************!*\
+  !*** ../modules/posts/assets/js/frontend/handlers/cards.js ***!
+  \*************************************************************/
+/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
+
+"use strict";
+
+
+var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "../node_modules/@babel/runtime/helpers/interopRequireDefault.js");
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+var _posts = _interopRequireDefault(__webpack_require__(/*! ./posts */ "../modules/posts/assets/js/frontend/handlers/posts.js"));
+
+var _default = _posts.default.extend({
+  getSkinPrefix() {
+    return 'cards_';
+  }
+
+});
+
+exports.default = _default;
+
+/***/ }),
+
+/***/ "../modules/posts/assets/js/frontend/handlers/posts.js":
+/*!*************************************************************!*\
+  !*** ../modules/posts/assets/js/frontend/handlers/posts.js ***!
+  \*************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+var _default = elementorModules.frontend.handlers.Base.extend({
+  getSkinPrefix() {
+    return 'classic_';
+  },
+
+  bindEvents() {
+    var cid = this.getModelCID();
+    elementorFrontend.addListenerOnce(cid, 'resize', this.onWindowResize);
+  },
+
+  getClosureMethodsNames() {
+    return elementorModules.frontend.handlers.Base.prototype.getClosureMethodsNames.apply(this, arguments).concat(['fitImages', 'onWindowResize', 'runMasonry']);
+  },
+
+  getDefaultSettings() {
+    return {
+      classes: {
+        fitHeight: 'elementor-fit-height',
+        hasItemRatio: 'elementor-has-item-ratio'
+      },
+      selectors: {
+        postsContainer: '.elementor-posts-container',
+        post: '.elementor-post',
+        postThumbnail: '.elementor-post__thumbnail',
+        postThumbnailImage: '.elementor-post__thumbnail img'
+      }
+    };
+  },
+
+  getDefaultElements() {
+    var selectors = this.getSettings('selectors');
+    return {
+      $postsContainer: this.$element.find(selectors.postsContainer),
+      $posts: this.$element.find(selectors.post)
+    };
+  },
+
+  fitImage($post) {
+    var settings = this.getSettings(),
+        $imageParent = $post.find(settings.selectors.postThumbnail),
+        $image = $imageParent.find('img'),
+        image = $image[0];
+
+    if (!image) {
+      return;
+    }
+
+    var imageParentRatio = $imageParent.outerHeight() / $imageParent.outerWidth(),
+        imageRatio = image.naturalHeight / image.naturalWidth;
+    $imageParent.toggleClass(settings.classes.fitHeight, imageRatio < imageParentRatio);
+  },
+
+  fitImages() {
+    var $ = jQuery,
+        self = this,
+        itemRatio = getComputedStyle(this.$element[0], ':after').content,
+        settings = this.getSettings();
+    this.elements.$postsContainer.toggleClass(settings.classes.hasItemRatio, !!itemRatio.match(/\d/));
+
+    if (self.isMasonryEnabled()) {
+      return;
+    }
+
+    this.elements.$posts.each(function () {
+      var $post = $(this),
+          $image = $post.find(settings.selectors.postThumbnailImage);
+      self.fitImage($post);
+      $image.on('load', function () {
+        self.fitImage($post);
+      });
+    });
+  },
+
+  setColsCountSettings() {
+    var currentDeviceMode = elementorFrontend.getCurrentDeviceMode(),
+        settings = this.getElementSettings(),
+        skinPrefix = this.getSkinPrefix(),
+        colsCount;
+
+    switch (currentDeviceMode) {
+      case 'mobile':
+        colsCount = settings[skinPrefix + 'columns_mobile'];
+        break;
+
+      case 'tablet':
+        colsCount = settings[skinPrefix + 'columns_tablet'];
+        break;
+
+      default:
+        colsCount = settings[skinPrefix + 'columns'];
+    }
+
+    this.setSettings('colsCount', colsCount);
+  },
+
+  isMasonryEnabled() {
+    return !!this.getElementSettings(this.getSkinPrefix() + 'masonry');
+  },
+
+  initMasonry() {
+    imagesLoaded(this.elements.$posts, this.runMasonry);
+  },
+
+  runMasonry() {
+    var elements = this.elements;
+    elements.$posts.css({
+      marginTop: '',
+      transitionDuration: ''
+    });
+    this.setColsCountSettings();
+    var colsCount = this.getSettings('colsCount'),
+        hasMasonry = this.isMasonryEnabled() && colsCount >= 2;
+    elements.$postsContainer.toggleClass('elementor-posts-masonry', hasMasonry);
+
+    if (!hasMasonry) {
+      elements.$postsContainer.height('');
+      return;
+    }
+    /* The `verticalSpaceBetween` variable is setup in a way that supports older versions of the portfolio widget */
+
+
+    var verticalSpaceBetween = this.getElementSettings(this.getSkinPrefix() + 'row_gap.size');
+
+    if ('' === this.getSkinPrefix() && '' === verticalSpaceBetween) {
+      verticalSpaceBetween = this.getElementSettings(this.getSkinPrefix() + 'item_gap.size');
+    }
+
+    var masonry = new elementorModules.utils.Masonry({
+      container: elements.$postsContainer,
+      items: elements.$posts.filter(':visible'),
+      columnsCount: this.getSettings('colsCount'),
+      verticalSpaceBetween
+    });
+    masonry.run();
+  },
+
+  run() {
+    // For slow browsers
+    setTimeout(this.fitImages, 0);
+    this.initMasonry();
+  },
+
+  onInit() {
+    elementorModules.frontend.handlers.Base.prototype.onInit.apply(this, arguments);
+    this.bindEvents();
+    this.run();
+  },
+
+  onWindowResize() {
+    this.fitImages();
+    this.runMasonry();
+  },
+
+  onElementChange() {
+    this.fitImages();
+    setTimeout(this.runMasonry);
+  }
+
+});
+
+exports.default = _default;
+
+/***/ })
+
+}]);
+//# sourceMappingURL=posts.c23c8d29f44afbd62da6.bundle.js.map
