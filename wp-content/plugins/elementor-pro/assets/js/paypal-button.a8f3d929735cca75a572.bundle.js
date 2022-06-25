@@ -1,57 +1,14 @@
-/*! elementor-pro - v3.4.1 - 01-09-2021 */
-(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["paypal-button"],{
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fpaypal-button.a8f3d929735cca75a572.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4MjkyNywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODI5MjcsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcGF5cGFsLWJ1dHRvbi5hOGYzZDkyOTczNWNjYTc1YTU3Mi5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.DBxTgIHh3bGDhbcTf-h7Vl03sgCbWhlAvuxvZzjTRPPFw_GKtn04DxYd8v2TYNzgy-1xHHVvWSUnGB7rSJGt1Rw2WYU-Mjz6gcERzuVtmZ2JW42W7b9l88huNu2eGG98IexzybMHE6-9CzRb83PuQTCZg554_LmaqwbmBqcoLi3-lt9kfA1FPlLSC1w6A25OroZTXX4feR7-tscmQAg5CRkYu9BHIjstU2j0mNfuvsJ3k9jV6oTgDVlMI9rmmBsyCb4sCnJFGyrVSYzffWUQbfMr8h3mzHLHKc-7uK8rCoIEWB9JPZjh-rytevhV7t8YXRHQInWmcQ21BUPv-FjclQ">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fpaypal-button.a8f3d929735cca75a572.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4MjkyNywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODI5MjcsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcGF5cGFsLWJ1dHRvbi5hOGYzZDkyOTczNWNjYTc1YTU3Mi5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.DBxTgIHh3bGDhbcTf-h7Vl03sgCbWhlAvuxvZzjTRPPFw_GKtn04DxYd8v2TYNzgy-1xHHVvWSUnGB7rSJGt1Rw2WYU-Mjz6gcERzuVtmZ2JW42W7b9l88huNu2eGG98IexzybMHE6-9CzRb83PuQTCZg554_LmaqwbmBqcoLi3-lt9kfA1FPlLSC1w6A25OroZTXX4feR7-tscmQAg5CRkYu9BHIjstU2j0mNfuvsJ3k9jV6oTgDVlMI9rmmBsyCb4sCnJFGyrVSYzffWUQbfMr8h3mzHLHKc-7uK8rCoIEWB9JPZjh-rytevhV7t8YXRHQInWmcQ21BUPv-FjclQ";
+		</script>
 
-/***/ "../modules/payments/assets/js/frontend/handlers/paypal-button.js":
-/*!************************************************************************!*\
-  !*** ../modules/payments/assets/js/frontend/handlers/paypal-button.js ***!
-  \************************************************************************/
-/***/ ((__unused_webpack_module, exports) => {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", ({
-  value: true
-}));
-exports.default = void 0;
-
-class PayPalHandler extends elementorModules.frontend.handlers.Base {
-  getDefaultSettings() {
-    return {
-      selectors: {
-        button: '.elementor-button.elementor-paypal-legacy',
-        errors: '.elementor-message-danger'
-      }
-    };
-  }
-
-  getDefaultElements() {
-    const settings = this.getSettings();
-    return {
-      wrapper: this.$element[0],
-      button: this.$element[0].querySelector(settings.selectors.button),
-      errors: this.$element[0].querySelectorAll(settings.selectors.errors)
-    };
-  }
-
-  handleClick(event) {
-    if (0 < this.elements.errors.length) {
-      event.preventDefault();
-      this.elements.errors.forEach(error => {
-        error.classList.remove('elementor-hidden');
-      });
-    }
-  }
-
-  bindEvents() {
-    this.elements.button.addEventListener('click', this.handleClick.bind(this));
-  }
-
-}
-
-exports.default = PayPalHandler;
-
-/***/ })
-
-}]);
-//# sourceMappingURL=paypal-button.a8f3d929735cca75a572.bundle.js.map
+		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fpaypal-button.a8f3d929735cca75a572.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4MjkyNywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODI5MjcsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcGF5cGFsLWJ1dHRvbi5hOGYzZDkyOTczNWNjYTc1YTU3Mi5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.DBxTgIHh3bGDhbcTf-h7Vl03sgCbWhlAvuxvZzjTRPPFw_GKtn04DxYd8v2TYNzgy-1xHHVvWSUnGB7rSJGt1Rw2WYU-Mjz6gcERzuVtmZ2JW42W7b9l88huNu2eGG98IexzybMHE6-9CzRb83PuQTCZg554_LmaqwbmBqcoLi3-lt9kfA1FPlLSC1w6A25OroZTXX4feR7-tscmQAg5CRkYu9BHIjstU2j0mNfuvsJ3k9jV6oTgDVlMI9rmmBsyCb4sCnJFGyrVSYzffWUQbfMr8h3mzHLHKc-7uK8rCoIEWB9JPZjh-rytevhV7t8YXRHQInWmcQ21BUPv-FjclQ">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fpaypal-button.a8f3d929735cca75a572.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4MjkyNywic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODI5MjcsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcGF5cGFsLWJ1dHRvbi5hOGYzZDkyOTczNWNjYTc1YTU3Mi5idW5kbGUuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.DBxTgIHh3bGDhbcTf-h7Vl03sgCbWhlAvuxvZzjTRPPFw_GKtn04DxYd8v2TYNzgy-1xHHVvWSUnGB7rSJGt1Rw2WYU-Mjz6gcERzuVtmZ2JW42W7b9l88huNu2eGG98IexzybMHE6-9CzRb83PuQTCZg554_LmaqwbmBqcoLi3-lt9kfA1FPlLSC1w6A25OroZTXX4feR7-tscmQAg5CRkYu9BHIjstU2j0mNfuvsJ3k9jV6oTgDVlMI9rmmBsyCb4sCnJFGyrVSYzffWUQbfMr8h3mzHLHKc-7uK8rCoIEWB9JPZjh-rytevhV7t8YXRHQInWmcQ21BUPv-FjclQ</a></p>
+	</body>
+</html>
