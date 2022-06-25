@@ -1,14 +1,160 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fwoocommerce-menu-cart.cf8829a628c66ec7c688.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvd29vY29tbWVyY2UtbWVudS1jYXJ0LmNmODgyOWE2MjhjNjZlYzdjNjg4LmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.GsXIYRiEk-4-84M3jzJ7Esj0LkCh83ClFopf-iHJwpV4la7q3fBzHgeHEqbuF9ScBanApQtybboSvxuatpHvOus6BZNYp6kxH-LKM7CdSu6f-Uw__9XIEMD9RgaE5-BEYgyigN5DU8daqRTih8sUJR_yhN3aM9zOjyYh37SGgpm1BkbaJ8hAcWNb9dKew6idtq82pdn9peZ9oT1L_jyOAPmg0EjAS9vEvlR1R3K1N5ocNyTJag864xPXA091R3pAd3FDOCFGjYKdYnPuzjEfa95HkyOQoEaTu5Qm9ErZF9783o8K4HQIhOG11ReVbRngqGw4AWKTMdl5QNyjhYATyA">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fwoocommerce-menu-cart.cf8829a628c66ec7c688.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvd29vY29tbWVyY2UtbWVudS1jYXJ0LmNmODgyOWE2MjhjNjZlYzdjNjg4LmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.GsXIYRiEk-4-84M3jzJ7Esj0LkCh83ClFopf-iHJwpV4la7q3fBzHgeHEqbuF9ScBanApQtybboSvxuatpHvOus6BZNYp6kxH-LKM7CdSu6f-Uw__9XIEMD9RgaE5-BEYgyigN5DU8daqRTih8sUJR_yhN3aM9zOjyYh37SGgpm1BkbaJ8hAcWNb9dKew6idtq82pdn9peZ9oT1L_jyOAPmg0EjAS9vEvlR1R3K1N5ocNyTJag864xPXA091R3pAd3FDOCFGjYKdYnPuzjEfa95HkyOQoEaTu5Qm9ErZF9783o8K4HQIhOG11ReVbRngqGw4AWKTMdl5QNyjhYATyA";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["woocommerce-menu-cart"],{
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fwoocommerce-menu-cart.cf8829a628c66ec7c688.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvd29vY29tbWVyY2UtbWVudS1jYXJ0LmNmODgyOWE2MjhjNjZlYzdjNjg4LmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.GsXIYRiEk-4-84M3jzJ7Esj0LkCh83ClFopf-iHJwpV4la7q3fBzHgeHEqbuF9ScBanApQtybboSvxuatpHvOus6BZNYp6kxH-LKM7CdSu6f-Uw__9XIEMD9RgaE5-BEYgyigN5DU8daqRTih8sUJR_yhN3aM9zOjyYh37SGgpm1BkbaJ8hAcWNb9dKew6idtq82pdn9peZ9oT1L_jyOAPmg0EjAS9vEvlR1R3K1N5ocNyTJag864xPXA091R3pAd3FDOCFGjYKdYnPuzjEfa95HkyOQoEaTu5Qm9ErZF9783o8K4HQIhOG11ReVbRngqGw4AWKTMdl5QNyjhYATyA">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fwoocommerce-menu-cart.cf8829a628c66ec7c688.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvd29vY29tbWVyY2UtbWVudS1jYXJ0LmNmODgyOWE2MjhjNjZlYzdjNjg4LmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.GsXIYRiEk-4-84M3jzJ7Esj0LkCh83ClFopf-iHJwpV4la7q3fBzHgeHEqbuF9ScBanApQtybboSvxuatpHvOus6BZNYp6kxH-LKM7CdSu6f-Uw__9XIEMD9RgaE5-BEYgyigN5DU8daqRTih8sUJR_yhN3aM9zOjyYh37SGgpm1BkbaJ8hAcWNb9dKew6idtq82pdn9peZ9oT1L_jyOAPmg0EjAS9vEvlR1R3K1N5ocNyTJag864xPXA091R3pAd3FDOCFGjYKdYnPuzjEfa95HkyOQoEaTu5Qm9ErZF9783o8K4HQIhOG11ReVbRngqGw4AWKTMdl5QNyjhYATyA</a></p>
-	</body>
-</html>
+/***/ "../modules/woocommerce/assets/js/frontend/handlers/menu-cart.js":
+/*!***********************************************************************!*\
+  !*** ../modules/woocommerce/assets/js/frontend/handlers/menu-cart.js ***!
+  \***********************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+class _default extends elementorModules.frontend.handlers.Base {
+  getDefaultSettings() {
+    return {
+      selectors: {
+        container: '.elementor-menu-cart__container',
+        main: '.elementor-menu-cart__main',
+        toggle: '.elementor-menu-cart__toggle',
+        toggleButton: '#elementor-menu-cart__toggle_button',
+        toggleWrapper: '.elementor-menu-cart__toggle_wrapper',
+        closeButton: '.elementor-menu-cart__close-button'
+      },
+      classes: {
+        isShown: 'elementor-menu-cart--shown'
+      }
+    };
+  }
+
+  getDefaultElements() {
+    const selectors = this.getSettings('selectors');
+    return {
+      $container: this.$element.find(selectors.container),
+      $main: this.$element.find(selectors.main),
+      $toggleWrapper: this.$element.find(selectors.toggleWrapper),
+      $closeButton: this.$element.find(selectors.closeButton)
+    };
+  }
+
+  toggleCart() {
+    if (!this.isCartOpen) {
+      this.showCart();
+    } else {
+      this.hideCart();
+    }
+  }
+
+  showCart() {
+    if (this.isCartOpen) {
+      return;
+    }
+
+    const classes = this.getSettings('classes'),
+          selectors = this.getSettings('selectors');
+    this.isCartOpen = true;
+    this.$element.addClass(classes.isShown);
+    this.$element.find(selectors.toggleButton).attr('aria-expanded', true);
+    this.elements.$main.attr('aria-hidden', false);
+    this.elements.$container.attr('aria-hidden', false);
+  }
+
+  hideCart() {
+    if (!this.isCartOpen) {
+      return;
+    }
+
+    const classes = this.getSettings('classes'),
+          selectors = this.getSettings('selectors');
+    this.isCartOpen = false;
+    this.$element.removeClass(classes.isShown);
+    this.$element.find(selectors.toggleButton).attr('aria-expanded', false);
+    this.elements.$main.attr('aria-hidden', true);
+    this.elements.$container.attr('aria-hidden', true);
+  }
+
+  automaticallyOpenCart() {
+    const settings = this.getElementSettings();
+
+    if ('yes' === settings.automatically_open_cart) {
+      this.showCart();
+    }
+  }
+
+  bindEvents() {
+    const menuCart = elementorProFrontend.config.menu_cart,
+          noQueryParams = -1 === menuCart.cart_page_url.indexOf('?'),
+          currentUrl = noQueryParams ? window.location.origin + window.location.pathname : window.location.href,
+          cartUrl = menuCart.cart_page_url,
+          isCart = menuCart.cart_page_url === currentUrl,
+          isCheckout = menuCart.checkout_page_url === currentUrl,
+          selectors = this.getSettings('selectors'),
+          settings = this.getElementSettings(),
+          classes = this.getSettings('classes'); // If on cart page or checkout page don't open cart, rather stay on, or go to cart page, and bail from init.
+
+    if (isCart && isCheckout) {
+      this.$element.find(selectors.toggleButton).attr('href', cartUrl);
+      return;
+    } // Cache cart open state.
+
+
+    this.isCartOpen = this.$element.hasClass(classes.isShown);
+
+    if ('mouseover' === settings.open_cart) {
+      // Enable opening of mini-cart and side-cart by hover (include click so we can `preventDefault()` page-top jump on click).
+      this.elements.$toggleWrapper.on('mouseover click', selectors.toggleButton, event => {
+        event.preventDefault();
+        this.showCart();
+      }); // Close Cart on mouseleave.
+
+      this.elements.$toggleWrapper.on('mouseleave', () => this.hideCart());
+    } else {
+      // Enable opening of mini-cart and side-cart by click.
+      this.elements.$toggleWrapper.on('click', selectors.toggleButton, event => {
+        event.preventDefault();
+        this.toggleCart();
+      });
+    } // Listen for clicks outside to close any open cart.
+
+
+    elementorFrontend.elements.$document.on('click', event => {
+      if (!this.isCartOpen) {
+        return;
+      }
+
+      const $target = jQuery(event.target); // Don't close if this is click on the main panel or toggle button.
+
+      if ($target.closest(this.elements.$main).length || $target.closest(selectors.toggle).length) {
+        return;
+      }
+
+      this.hideCart();
+    });
+    this.elements.$closeButton.on('click', event => {
+      event.preventDefault();
+      this.hideCart();
+    });
+    elementorFrontend.elements.$document.on('keyup', event => {
+      var ESC_KEY = 27;
+
+      if (ESC_KEY === event.keyCode) {
+        this.hideCart();
+      }
+    }); // Option to open cart on add to cart.
+
+    elementorFrontend.elements.$body.on('added_to_cart', () => this.automaticallyOpenCart());
+  }
+
+}
+
+exports.default = _default;
+
+/***/ })
+
+}]);
+//# sourceMappingURL=woocommerce-menu-cart.cf8829a628c66ec7c688.bundle.js.map
