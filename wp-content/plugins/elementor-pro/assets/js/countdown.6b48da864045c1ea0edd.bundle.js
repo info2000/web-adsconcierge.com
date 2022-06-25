@@ -1,14 +1,173 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fcountdown.6b48da864045c1ea0edd.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4Niwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODYsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvY291bnRkb3duLjZiNDhkYTg2NDA0NWMxZWEwZWRkLmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.roiO5NBtx0zfDPWrTQw13gdNcGUiOcSILGJY9yevnO0dpw5BcRVr7N1hDgShdA5E57ayrL2eua1CMkAkAR2ZNPjkRIPYqD8gV4_6Xub_HkUnkqp3WZQPLz1upZlZDdp9K9Hwt0sdBziCpHsjQUovcOsYjrD-KVBI1sc-WFRjbrsPMxqehQBY4zD6Cqc3_wD4W7TG9XDhYgQXT0TjhD0QR8gTbu1S-9sguXN7XE86SzYc0RDQ8C34P6ymaxzBEXlCM_XwQ9b8fE5rGY7McR_lu6KlKXTyH63Or_Hjek_FmaoruX-7rJnMFmaet0CWkVuwvhYWki6WUXr7zILzoz_pMQ">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fcountdown.6b48da864045c1ea0edd.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4Niwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODYsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvY291bnRkb3duLjZiNDhkYTg2NDA0NWMxZWEwZWRkLmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.roiO5NBtx0zfDPWrTQw13gdNcGUiOcSILGJY9yevnO0dpw5BcRVr7N1hDgShdA5E57ayrL2eua1CMkAkAR2ZNPjkRIPYqD8gV4_6Xub_HkUnkqp3WZQPLz1upZlZDdp9K9Hwt0sdBziCpHsjQUovcOsYjrD-KVBI1sc-WFRjbrsPMxqehQBY4zD6Cqc3_wD4W7TG9XDhYgQXT0TjhD0QR8gTbu1S-9sguXN7XE86SzYc0RDQ8C34P6ymaxzBEXlCM_XwQ9b8fE5rGY7McR_lu6KlKXTyH63Or_Hjek_FmaoruX-7rJnMFmaet0CWkVuwvhYWki6WUXr7zILzoz_pMQ";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["countdown"],{
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fcountdown.6b48da864045c1ea0edd.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4Niwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODYsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvY291bnRkb3duLjZiNDhkYTg2NDA0NWMxZWEwZWRkLmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.roiO5NBtx0zfDPWrTQw13gdNcGUiOcSILGJY9yevnO0dpw5BcRVr7N1hDgShdA5E57ayrL2eua1CMkAkAR2ZNPjkRIPYqD8gV4_6Xub_HkUnkqp3WZQPLz1upZlZDdp9K9Hwt0sdBziCpHsjQUovcOsYjrD-KVBI1sc-WFRjbrsPMxqehQBY4zD6Cqc3_wD4W7TG9XDhYgQXT0TjhD0QR8gTbu1S-9sguXN7XE86SzYc0RDQ8C34P6ymaxzBEXlCM_XwQ9b8fE5rGY7McR_lu6KlKXTyH63Or_Hjek_FmaoruX-7rJnMFmaet0CWkVuwvhYWki6WUXr7zILzoz_pMQ">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fcountdown.6b48da864045c1ea0edd.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4Niwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODYsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvY291bnRkb3duLjZiNDhkYTg2NDA0NWMxZWEwZWRkLmJ1bmRsZS5qcyIsImlzX2dhdGV3YXkiOmZhbHNlLCJpc193YXJwIjpmYWxzZSwiYXV0aF9zdGF0dXMiOiJOT05FIn0.roiO5NBtx0zfDPWrTQw13gdNcGUiOcSILGJY9yevnO0dpw5BcRVr7N1hDgShdA5E57ayrL2eua1CMkAkAR2ZNPjkRIPYqD8gV4_6Xub_HkUnkqp3WZQPLz1upZlZDdp9K9Hwt0sdBziCpHsjQUovcOsYjrD-KVBI1sc-WFRjbrsPMxqehQBY4zD6Cqc3_wD4W7TG9XDhYgQXT0TjhD0QR8gTbu1S-9sguXN7XE86SzYc0RDQ8C34P6ymaxzBEXlCM_XwQ9b8fE5rGY7McR_lu6KlKXTyH63Or_Hjek_FmaoruX-7rJnMFmaet0CWkVuwvhYWki6WUXr7zILzoz_pMQ</a></p>
-	</body>
-</html>
+/***/ "../modules/countdown/assets/js/frontend/handlers/countdown.js":
+/*!*********************************************************************!*\
+  !*** ../modules/countdown/assets/js/frontend/handlers/countdown.js ***!
+  \*********************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+var _default = elementorModules.frontend.handlers.Base.extend({
+  cache: null,
+
+  cacheElements() {
+    const $countDown = this.$element.find('.elementor-countdown-wrapper');
+    this.cache = {
+      $countDown,
+      timeInterval: null,
+      elements: {
+        $countdown: $countDown.find('.elementor-countdown-wrapper'),
+        $daysSpan: $countDown.find('.elementor-countdown-days'),
+        $hoursSpan: $countDown.find('.elementor-countdown-hours'),
+        $minutesSpan: $countDown.find('.elementor-countdown-minutes'),
+        $secondsSpan: $countDown.find('.elementor-countdown-seconds'),
+        $expireMessage: $countDown.parent().find('.elementor-countdown-expire--message')
+      },
+      data: {
+        id: this.$element.data('id'),
+        endTime: new Date($countDown.data('date') * 1000),
+        actions: $countDown.data('expire-actions'),
+        evergreenInterval: $countDown.data('evergreen-interval')
+      }
+    };
+  },
+
+  onInit() {
+    elementorModules.frontend.handlers.Base.prototype.onInit.apply(this, arguments);
+    this.cacheElements();
+
+    if (0 < this.cache.data.evergreenInterval) {
+      this.cache.data.endTime = this.getEvergreenDate();
+    }
+
+    this.initializeClock();
+  },
+
+  updateClock() {
+    const self = this,
+          timeRemaining = this.getTimeRemaining(this.cache.data.endTime);
+    jQuery.each(timeRemaining.parts, function (timePart) {
+      const $element = self.cache.elements['$' + timePart + 'Span'];
+      let partValue = this.toString();
+
+      if (1 === partValue.length) {
+        partValue = 0 + partValue;
+      }
+
+      if ($element.length) {
+        $element.text(partValue);
+      }
+    });
+
+    if (timeRemaining.total <= 0) {
+      clearInterval(this.cache.timeInterval);
+      this.runActions();
+    }
+  },
+
+  initializeClock() {
+    const self = this;
+    this.updateClock();
+    this.cache.timeInterval = setInterval(function () {
+      self.updateClock();
+    }, 1000);
+  },
+
+  runActions() {
+    const self = this; // Trigger general event for 3rd patry actions
+
+    self.$element.trigger('countdown_expire', self.$element);
+
+    if (!this.cache.data.actions) {
+      return;
+    }
+
+    this.cache.data.actions.forEach(function (action) {
+      switch (action.type) {
+        case 'hide':
+          self.cache.$countDown.hide();
+          break;
+
+        case 'redirect':
+          if (action.redirect_url) {
+            window.location.href = action.redirect_url;
+          }
+
+          break;
+
+        case 'message':
+          self.cache.elements.$expireMessage.show();
+          break;
+      }
+    });
+  },
+
+  getTimeRemaining(endTime) {
+    const timeRemaining = endTime - new Date();
+    let seconds = Math.floor(timeRemaining / 1000 % 60),
+        minutes = Math.floor(timeRemaining / 1000 / 60 % 60),
+        hours = Math.floor(timeRemaining / (1000 * 60 * 60) % 24),
+        days = Math.floor(timeRemaining / (1000 * 60 * 60 * 24));
+
+    if (days < 0 || hours < 0 || minutes < 0) {
+      seconds = minutes = hours = days = 0;
+    }
+
+    return {
+      total: timeRemaining,
+      parts: {
+        days,
+        hours,
+        minutes,
+        seconds
+      }
+    };
+  },
+
+  getEvergreenDate() {
+    const self = this,
+          id = this.cache.data.id,
+          interval = this.cache.data.evergreenInterval,
+          dueDateKey = id + '-evergreen_due_date',
+          intervalKey = id + '-evergreen_interval',
+          localData = {
+      dueDate: localStorage.getItem(dueDateKey),
+      interval: localStorage.getItem(intervalKey)
+    },
+          initEvergreen = function () {
+      var evergreenDueDate = new Date();
+      self.cache.data.endTime = evergreenDueDate.setSeconds(evergreenDueDate.getSeconds() + interval);
+      localStorage.setItem(dueDateKey, self.cache.data.endTime);
+      localStorage.setItem(intervalKey, interval);
+      return self.cache.data.endTime;
+    };
+
+    if (null === localData.dueDate && null === localData.interval) {
+      return initEvergreen();
+    }
+
+    if (null !== localData.dueDate && interval !== parseInt(localData.interval, 10)) {
+      return initEvergreen();
+    }
+
+    if (localData.dueDate > 0 && parseInt(localData.interval, 10) === interval) {
+      return localData.dueDate;
+    }
+  }
+
+});
+
+exports.default = _default;
+
+/***/ })
+
+}]);
+//# sourceMappingURL=countdown.6b48da864045c1ea0edd.bundle.js.map
