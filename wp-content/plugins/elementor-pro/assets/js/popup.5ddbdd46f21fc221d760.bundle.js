@@ -1,14 +1,61 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fpopup.5ddbdd46f21fc221d760.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcG9wdXAuNWRkYmRkNDZmMjFmYzIyMWQ3NjAuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.ezAfYHRSOf8WrgDGNwmqYcyZE45biWqN5DVCfFPIXfSRlintxp0xSL1YGZFtpIf899xS4HbM9tsQ3vaiQqCg7_LiqzLHWLb1HDBvhwyDpKc4lAiegar8vaNNPviP377gqfscFkT6JiPtNUx1hW4Qh76AFmfyZRpfaIuO7XhaqVuWNG-PcaoPhkKNu_5pM7ZfHTJtGEMFVIfl4ot1ato-wwhusXYgLENnss2t-_01yRPZj-KUjquI_Cz-Akf02R2mI57GGev1oSFObbDsO1k-yWVFM4--nwxGZOPd7YYfIVeK9LfOEEY9lRni_Cr0puWpKUOebYor5X56Z4GrpBfNqQ">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fpopup.5ddbdd46f21fc221d760.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcG9wdXAuNWRkYmRkNDZmMjFmYzIyMWQ3NjAuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.ezAfYHRSOf8WrgDGNwmqYcyZE45biWqN5DVCfFPIXfSRlintxp0xSL1YGZFtpIf899xS4HbM9tsQ3vaiQqCg7_LiqzLHWLb1HDBvhwyDpKc4lAiegar8vaNNPviP377gqfscFkT6JiPtNUx1hW4Qh76AFmfyZRpfaIuO7XhaqVuWNG-PcaoPhkKNu_5pM7ZfHTJtGEMFVIfl4ot1ato-wwhusXYgLENnss2t-_01yRPZj-KUjquI_Cz-Akf02R2mI57GGev1oSFObbDsO1k-yWVFM4--nwxGZOPd7YYfIVeK9LfOEEY9lRni_Cr0puWpKUOebYor5X56Z4GrpBfNqQ";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["popup"],{
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fpopup.5ddbdd46f21fc221d760.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcG9wdXAuNWRkYmRkNDZmMjFmYzIyMWQ3NjAuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.ezAfYHRSOf8WrgDGNwmqYcyZE45biWqN5DVCfFPIXfSRlintxp0xSL1YGZFtpIf899xS4HbM9tsQ3vaiQqCg7_LiqzLHWLb1HDBvhwyDpKc4lAiegar8vaNNPviP377gqfscFkT6JiPtNUx1hW4Qh76AFmfyZRpfaIuO7XhaqVuWNG-PcaoPhkKNu_5pM7ZfHTJtGEMFVIfl4ot1ato-wwhusXYgLENnss2t-_01yRPZj-KUjquI_Cz-Akf02R2mI57GGev1oSFObbDsO1k-yWVFM4--nwxGZOPd7YYfIVeK9LfOEEY9lRni_Cr0puWpKUOebYor5X56Z4GrpBfNqQ">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fpopup.5ddbdd46f21fc221d760.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcG9wdXAuNWRkYmRkNDZmMjFmYzIyMWQ3NjAuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.ezAfYHRSOf8WrgDGNwmqYcyZE45biWqN5DVCfFPIXfSRlintxp0xSL1YGZFtpIf899xS4HbM9tsQ3vaiQqCg7_LiqzLHWLb1HDBvhwyDpKc4lAiegar8vaNNPviP377gqfscFkT6JiPtNUx1hW4Qh76AFmfyZRpfaIuO7XhaqVuWNG-PcaoPhkKNu_5pM7ZfHTJtGEMFVIfl4ot1ato-wwhusXYgLENnss2t-_01yRPZj-KUjquI_Cz-Akf02R2mI57GGev1oSFObbDsO1k-yWVFM4--nwxGZOPd7YYfIVeK9LfOEEY9lRni_Cr0puWpKUOebYor5X56Z4GrpBfNqQ</a></p>
-	</body>
-</html>
+/***/ "../modules/popup/assets/js/frontend/handlers/forms-action.js":
+/*!********************************************************************!*\
+  !*** ../modules/popup/assets/js/frontend/handlers/forms-action.js ***!
+  \********************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+var _default = elementorModules.frontend.handlers.Base.extend({
+  getDefaultSettings() {
+    return {
+      selectors: {
+        form: '.elementor-form'
+      }
+    };
+  },
+
+  getDefaultElements() {
+    var selectors = this.getSettings('selectors'),
+        elements = {};
+    elements.$form = this.$element.find(selectors.form);
+    return elements;
+  },
+
+  bindEvents() {
+    this.elements.$form.on('submit_success', this.handleFormAction);
+  },
+
+  handleFormAction(event, response) {
+    if ('undefined' === typeof response.data.popup) {
+      return;
+    }
+
+    const popupSettings = response.data.popup;
+
+    if ('open' === popupSettings.action) {
+      return elementorProFrontend.modules.popup.showPopup(popupSettings);
+    }
+
+    setTimeout(() => {
+      return elementorProFrontend.modules.popup.closePopup(popupSettings, event);
+    }, 1000);
+  }
+
+});
+
+exports.default = _default;
+
+/***/ })
+
+}]);
+//# sourceMappingURL=popup.5ddbdd46f21fc221d760.bundle.js.map
