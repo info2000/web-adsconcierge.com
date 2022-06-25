@@ -1,14 +1,90 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fqunit-tests.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcXVuaXQtdGVzdHMuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.pglIsEWuxIVKo2bo9v5_UV_WQZXqw7XDOvANNXLMDbDRm30kCroiySme37jg9WPBebEprijoSQ1EHSrQT3mjFmxqu0KkzFs9Oi7E-5rs2-7nu4SMjIzJhM6msZW2_OojRCmRRWSA0D3xZ-0-BI2BBHYqmBgLmP6Oxav4PZzFZvKm_-3u8gaT9vHBmVFXJ0bE29LjHQDD6nyvYc_peiscwJQFnK41wDiGsq-jpRKM9Nx5dx71rlZgbpGBwQMoW28ShDxQXqNmNPYPhZzNaCGF0ZOscYzuybtMSLWuSqbA_Gr7Uf5MORoLH25ESnfSGfB57ByY3CqHpvIY6FA-cFAO7g">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fqunit-tests.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcXVuaXQtdGVzdHMuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.pglIsEWuxIVKo2bo9v5_UV_WQZXqw7XDOvANNXLMDbDRm30kCroiySme37jg9WPBebEprijoSQ1EHSrQT3mjFmxqu0KkzFs9Oi7E-5rs2-7nu4SMjIzJhM6msZW2_OojRCmRRWSA0D3xZ-0-BI2BBHYqmBgLmP6Oxav4PZzFZvKm_-3u8gaT9vHBmVFXJ0bE29LjHQDD6nyvYc_peiscwJQFnK41wDiGsq-jpRKM9Nx5dx71rlZgbpGBwQMoW28ShDxQXqNmNPYPhZzNaCGF0ZOscYzuybtMSLWuSqbA_Gr7Uf5MORoLH25ESnfSGfB57ByY3CqHpvIY6FA-cFAO7g";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+/******/ (() => { // webpackBootstrap
+/******/ 	"use strict";
+/******/ 	var __webpack_modules__ = ({
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fqunit-tests.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcXVuaXQtdGVzdHMuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.pglIsEWuxIVKo2bo9v5_UV_WQZXqw7XDOvANNXLMDbDRm30kCroiySme37jg9WPBebEprijoSQ1EHSrQT3mjFmxqu0KkzFs9Oi7E-5rs2-7nu4SMjIzJhM6msZW2_OojRCmRRWSA0D3xZ-0-BI2BBHYqmBgLmP6Oxav4PZzFZvKm_-3u8gaT9vHBmVFXJ0bE29LjHQDD6nyvYc_peiscwJQFnK41wDiGsq-jpRKM9Nx5dx71rlZgbpGBwQMoW28ShDxQXqNmNPYPhZzNaCGF0ZOscYzuybtMSLWuSqbA_Gr7Uf5MORoLH25ESnfSGfB57ByY3CqHpvIY6FA-cFAO7g">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fqunit-tests.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvcXVuaXQtdGVzdHMuanMiLCJpc19nYXRld2F5IjpmYWxzZSwiaXNfd2FycCI6ZmFsc2UsImF1dGhfc3RhdHVzIjoiTk9ORSJ9.pglIsEWuxIVKo2bo9v5_UV_WQZXqw7XDOvANNXLMDbDRm30kCroiySme37jg9WPBebEprijoSQ1EHSrQT3mjFmxqu0KkzFs9Oi7E-5rs2-7nu4SMjIzJhM6msZW2_OojRCmRRWSA0D3xZ-0-BI2BBHYqmBgLmP6Oxav4PZzFZvKm_-3u8gaT9vHBmVFXJ0bE29LjHQDD6nyvYc_peiscwJQFnK41wDiGsq-jpRKM9Nx5dx71rlZgbpGBwQMoW28ShDxQXqNmNPYPhZzNaCGF0ZOscYzuybtMSLWuSqbA_Gr7Uf5MORoLH25ESnfSGfB57ByY3CqHpvIY6FA-cFAO7g</a></p>
-	</body>
-</html>
+/***/ "../tests/qunit/editor/editor.js":
+/*!***************************************!*\
+  !*** ../tests/qunit/editor/editor.js ***!
+  \***************************************/
+/***/ (() => {
+
+/**
+ * This file load elementor core in order to run 'editor' tests, since the 'pro' does not include the editor it self.
+ * for enabling the feature use '--development-tests' in command arguments ( at building command ).
+ * dependencies/how to run:
+ * core node_modules ( npm install ).
+ * core compiled scripts ( grunt watch_scripts ).
+ * pro compiled scripts with '--development-tests' ( grunt watch_scripts --development-tests )
+ * pro: grunt karma:unit.
+ */
+// #if true === process.argv.includes( '--development-tests' )
+// import EditorBootstrapCore from 'elementor/tests/qunit/editor/bootstrap';
+// import editorConfig from '../mock/config/editor.json';
+// 
+// import tests from '../tests/';
+// 
+// export class EditorBootstrapPro extends EditorBootstrapCore {
+// 	initialize() {
+// 		window.elementorProEditorConfig = editorConfig;
+// 
+// 		// Load elementor-pro.
+// 		require( 'editor/editor' );
+// 
+// 		super.initialize();
+// 	}
+// 
+// 	runTests() {
+// 		return tests();
+// 	}
+// }
+// // #else
+// export class NullClass {}
+// #endif
+
+
+/***/ })
+
+/******/ 	});
+/************************************************************************/
+/******/ 	// The module cache
+/******/ 	var __webpack_module_cache__ = {};
+/******/ 	
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/ 		// Check if module is in cache
+/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
+/******/ 		if (cachedModule !== undefined) {
+/******/ 			return cachedModule.exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = __webpack_module_cache__[moduleId] = {
+/******/ 			// no module.id needed
+/******/ 			// no module.loaded needed
+/******/ 			exports: {}
+/******/ 		};
+/******/ 	
+/******/ 		// Execute the module function
+/******/ 		__webpack_modules__[moduleId](module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/ 	
+/************************************************************************/
+var __webpack_exports__ = {};
+// This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
+(() => {
+/*!******************************!*\
+  !*** ../tests/qunit/main.js ***!
+  \******************************/
+
+
+var _editor = __webpack_require__(/*! ./editor/editor */ "../tests/qunit/editor/editor.js");
+
+new _editor.EditorBootstrapPro();
+})();
+
+/******/ })()
+;
+//# sourceMappingURL=qunit-tests.js.map
