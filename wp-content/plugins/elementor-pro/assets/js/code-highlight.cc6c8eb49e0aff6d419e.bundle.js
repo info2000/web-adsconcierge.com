@@ -1,14 +1,36 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fcode-highlight.cc6c8eb49e0aff6d419e.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvY29kZS1oaWdobGlnaHQuY2M2YzhlYjQ5ZTBhZmY2ZDQxOWUuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.qMLf6LINKQs7UZcEYqv33qT0HChxPCf5fz_Kxz34M3mkP_K3NkjEqRHqhX3D-8OCl-x0Ny9UUKMZEVdwW7KSQjExjsZEXgtNZKJOxK6KllsMCV7L9vrOQUHLAsWc53iOhhT2I0Uhy-bL8JhMmC4k4zU0muB3LnW-HIh6giXvUZxiDWxMDK4fpnntfzqI339u6Hs-aZF09Wity9kgiXmybOjYhftaNKhsqLU0BCYEeg2TL1p1bgghMQfN2Tj5ZLBv6XOBp7eqGzTC9P_D1u3sEtvbYCaV2bHUt-0pgDnF4YEZh0988V1yu-MYbDDhqUY6MPbUCojXcOq-AimnQoaA7A">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fcode-highlight.cc6c8eb49e0aff6d419e.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvY29kZS1oaWdobGlnaHQuY2M2YzhlYjQ5ZTBhZmY2ZDQxOWUuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.qMLf6LINKQs7UZcEYqv33qT0HChxPCf5fz_Kxz34M3mkP_K3NkjEqRHqhX3D-8OCl-x0Ny9UUKMZEVdwW7KSQjExjsZEXgtNZKJOxK6KllsMCV7L9vrOQUHLAsWc53iOhhT2I0Uhy-bL8JhMmC4k4zU0muB3LnW-HIh6giXvUZxiDWxMDK4fpnntfzqI339u6Hs-aZF09Wity9kgiXmybOjYhftaNKhsqLU0BCYEeg2TL1p1bgghMQfN2Tj5ZLBv6XOBp7eqGzTC9P_D1u3sEtvbYCaV2bHUt-0pgDnF4YEZh0988V1yu-MYbDDhqUY6MPbUCojXcOq-AimnQoaA7A";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["code-highlight"],{
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fcode-highlight.cc6c8eb49e0aff6d419e.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvY29kZS1oaWdobGlnaHQuY2M2YzhlYjQ5ZTBhZmY2ZDQxOWUuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.qMLf6LINKQs7UZcEYqv33qT0HChxPCf5fz_Kxz34M3mkP_K3NkjEqRHqhX3D-8OCl-x0Ny9UUKMZEVdwW7KSQjExjsZEXgtNZKJOxK6KllsMCV7L9vrOQUHLAsWc53iOhhT2I0Uhy-bL8JhMmC4k4zU0muB3LnW-HIh6giXvUZxiDWxMDK4fpnntfzqI339u6Hs-aZF09Wity9kgiXmybOjYhftaNKhsqLU0BCYEeg2TL1p1bgghMQfN2Tj5ZLBv6XOBp7eqGzTC9P_D1u3sEtvbYCaV2bHUt-0pgDnF4YEZh0988V1yu-MYbDDhqUY6MPbUCojXcOq-AimnQoaA7A">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Fcode-highlight.cc6c8eb49e0aff6d419e.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OSwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODksInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvY29kZS1oaWdobGlnaHQuY2M2YzhlYjQ5ZTBhZmY2ZDQxOWUuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.qMLf6LINKQs7UZcEYqv33qT0HChxPCf5fz_Kxz34M3mkP_K3NkjEqRHqhX3D-8OCl-x0Ny9UUKMZEVdwW7KSQjExjsZEXgtNZKJOxK6KllsMCV7L9vrOQUHLAsWc53iOhhT2I0Uhy-bL8JhMmC4k4zU0muB3LnW-HIh6giXvUZxiDWxMDK4fpnntfzqI339u6Hs-aZF09Wity9kgiXmybOjYhftaNKhsqLU0BCYEeg2TL1p1bgghMQfN2Tj5ZLBv6XOBp7eqGzTC9P_D1u3sEtvbYCaV2bHUt-0pgDnF4YEZh0988V1yu-MYbDDhqUY6MPbUCojXcOq-AimnQoaA7A</a></p>
-	</body>
-</html>
+/***/ "../modules/code-highlight/assets/js/frontend/handler.js":
+/*!***************************************************************!*\
+  !*** ../modules/code-highlight/assets/js/frontend/handler.js ***!
+  \***************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+class codeHighlightHandler extends elementorModules.frontend.handlers.Base {
+  onInit(...args) {
+    super.onInit(...args);
+    Prism.highlightAllUnder(this.$element[0], false);
+  }
+
+  onElementChange() {
+    // Handle the changes for "Word Wrap" feature
+    Prism.highlightAllUnder(this.$element[0], false);
+  }
+
+}
+
+exports.default = codeHighlightHandler;
+
+/***/ })
+
+}]);
+//# sourceMappingURL=code-highlight.cc6c8eb49e0aff6d419e.bundle.js.map
