@@ -1,14 +1,439 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Ftable-of-contents.0744140055afdd9bf411.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvdGFibGUtb2YtY29udGVudHMuMDc0NDE0MDA1NWFmZGQ5YmY0MTEuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.n5ewr7qLGjhpyHizlX2HhaUSY_RcKnW4ekfxTiaLz9JmVA_pmBTK1QEeIZiOEwPxlRzsKTGSvxRCRBy_m5i_FDOXeMV_CFDgFva9_eMNg3yoL4BFXaP82mVeGKIgRx4tLeISwdz9lC2OFSmPCWoJZ72hcddzAswB5POUPUmVxl_l1VbpZPWT_FaxeTU0VbavpSeGxnIlN8ibRloYYxR2mUV8Y14jraI8aXl7egYqUmC3y2_eYY8ihjRbU1xJrLdBB8NXT6-aYAjDCPE4Os6e9lZQNR_Xy3sxjAYWbdTxItsBe41vtDvRkvqoKPUXtPyAJ1FOacsUvXBwTo9OrRHgrw">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Ftable-of-contents.0744140055afdd9bf411.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvdGFibGUtb2YtY29udGVudHMuMDc0NDE0MDA1NWFmZGQ5YmY0MTEuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.n5ewr7qLGjhpyHizlX2HhaUSY_RcKnW4ekfxTiaLz9JmVA_pmBTK1QEeIZiOEwPxlRzsKTGSvxRCRBy_m5i_FDOXeMV_CFDgFva9_eMNg3yoL4BFXaP82mVeGKIgRx4tLeISwdz9lC2OFSmPCWoJZ72hcddzAswB5POUPUmVxl_l1VbpZPWT_FaxeTU0VbavpSeGxnIlN8ibRloYYxR2mUV8Y14jraI8aXl7egYqUmC3y2_eYY8ihjRbU1xJrLdBB8NXT6-aYAjDCPE4Os6e9lZQNR_Xy3sxjAYWbdTxItsBe41vtDvRkvqoKPUXtPyAJ1FOacsUvXBwTo9OrRHgrw";
-		</script>
+/*! elementor-pro - v3.4.1 - 01-09-2021 */
+(self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["table-of-contents"],{
 
-		<p>You are being redirected to <a href="https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Ftable-of-contents.0744140055afdd9bf411.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvdGFibGUtb2YtY29udGVudHMuMDc0NDE0MDA1NWFmZGQ5YmY0MTEuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.n5ewr7qLGjhpyHizlX2HhaUSY_RcKnW4ekfxTiaLz9JmVA_pmBTK1QEeIZiOEwPxlRzsKTGSvxRCRBy_m5i_FDOXeMV_CFDgFva9_eMNg3yoL4BFXaP82mVeGKIgRx4tLeISwdz9lC2OFSmPCWoJZ72hcddzAswB5POUPUmVxl_l1VbpZPWT_FaxeTU0VbavpSeGxnIlN8ibRloYYxR2mUV8Y14jraI8aXl7egYqUmC3y2_eYY8ihjRbU1xJrLdBB8NXT6-aYAjDCPE4Os6e9lZQNR_Xy3sxjAYWbdTxItsBe41vtDvRkvqoKPUXtPyAJ1FOacsUvXBwTo9OrRHgrw">https://thesocial.cloudflareaccess.com/cdn-cgi/access/login/socialads.adsconcierge.com?kid=47f80d9c001cd8f18ecbdf3494a0071927bf002d4bf315a4abf0b8034133c0af&redirect_url=%2Fwp-content%2Fplugins%2Felementor-pro%2Fassets%2Fjs%2Ftable-of-contents.0744140055afdd9bf411.bundle.js&meta=eyJraWQiOiJiYzY4ZTEyMzJmNjM5NjRlYjhhNWMxMWI4OWUxZmZlMWE5YWEyZDAwYzE4YTcyZTk0ZTkxZGFmNDAyNzg0MTNlIiwiYWxnIjoiUlMyNTYiLCJ0eXAiOiJKV1QifQ.eyJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlhdCI6MTY1NjE4NTA4OCwic2VydmljZV90b2tlbl9pZCI6IiIsImF1ZCI6IjQ3ZjgwZDljMDAxY2Q4ZjE4ZWNiZGYzNDk0YTAwNzE5MjdiZjAwMmQ0YmYzMTVhNGFiZjBiODAzNDEzM2MwYWYiLCJob3N0bmFtZSI6InNvY2lhbGFkcy5hZHNjb25jaWVyZ2UuY29tIiwidHlwZSI6Im1ldGEiLCJuYmYiOjE2NTYxODUwODgsInJlZGlyZWN0X3VybCI6Ilwvd3AtY29udGVudFwvcGx1Z2luc1wvZWxlbWVudG9yLXByb1wvYXNzZXRzXC9qc1wvdGFibGUtb2YtY29udGVudHMuMDc0NDE0MDA1NWFmZGQ5YmY0MTEuYnVuZGxlLmpzIiwiaXNfZ2F0ZXdheSI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJhdXRoX3N0YXR1cyI6Ik5PTkUifQ.n5ewr7qLGjhpyHizlX2HhaUSY_RcKnW4ekfxTiaLz9JmVA_pmBTK1QEeIZiOEwPxlRzsKTGSvxRCRBy_m5i_FDOXeMV_CFDgFva9_eMNg3yoL4BFXaP82mVeGKIgRx4tLeISwdz9lC2OFSmPCWoJZ72hcddzAswB5POUPUmVxl_l1VbpZPWT_FaxeTU0VbavpSeGxnIlN8ibRloYYxR2mUV8Y14jraI8aXl7egYqUmC3y2_eYY8ihjRbU1xJrLdBB8NXT6-aYAjDCPE4Os6e9lZQNR_Xy3sxjAYWbdTxItsBe41vtDvRkvqoKPUXtPyAJ1FOacsUvXBwTo9OrRHgrw</a></p>
-	</body>
-</html>
+/***/ "../modules/table-of-contents/assets/js/frontend/handlers/table-of-contents.js":
+/*!*************************************************************************************!*\
+  !*** ../modules/table-of-contents/assets/js/frontend/handlers/table-of-contents.js ***!
+  \*************************************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports.default = void 0;
+
+class TOCHandler extends elementorModules.frontend.handlers.Base {
+  getDefaultSettings() {
+    const elementSettings = this.getElementSettings(),
+          listWrapperTag = 'numbers' === elementSettings.marker_view ? 'ol' : 'ul';
+    return {
+      selectors: {
+        widgetContainer: '.elementor-widget-container',
+        postContentContainer: '.elementor:not([data-elementor-type="header"]):not([data-elementor-type="footer"]):not([data-elementor-type="popup"])',
+        expandButton: '.elementor-toc__toggle-button--expand',
+        collapseButton: '.elementor-toc__toggle-button--collapse',
+        body: '.elementor-toc__body',
+        headerTitle: '.elementor-toc__header-title'
+      },
+      classes: {
+        anchor: 'elementor-menu-anchor',
+        listWrapper: 'elementor-toc__list-wrapper',
+        listItem: 'elementor-toc__list-item',
+        listTextWrapper: 'elementor-toc__list-item-text-wrapper',
+        firstLevelListItem: 'elementor-toc__top-level',
+        listItemText: 'elementor-toc__list-item-text',
+        activeItem: 'elementor-item-active',
+        headingAnchor: 'elementor-toc__heading-anchor',
+        collapsed: 'elementor-toc--collapsed'
+      },
+      listWrapperTag
+    };
+  }
+
+  getDefaultElements() {
+    const settings = this.getSettings();
+    return {
+      $pageContainer: this.getContainer(),
+      $widgetContainer: this.$element.find(settings.selectors.widgetContainer),
+      $expandButton: this.$element.find(settings.selectors.expandButton),
+      $collapseButton: this.$element.find(settings.selectors.collapseButton),
+      $tocBody: this.$element.find(settings.selectors.body),
+      $listItems: this.$element.find('.' + settings.classes.listItem)
+    };
+  }
+
+  getContainer() {
+    const settings = this.getSettings(),
+          elementSettings = this.getElementSettings(); // If there is a custom container defined by the user, use it as the headings-scan container
+
+    if (elementSettings.container) {
+      return jQuery(elementSettings.container);
+    } // Get the document wrapper element in which the TOC is located
+
+
+    const $documentWrapper = this.$element.parents('.elementor'); // If the TOC container is a popup, only scan the popup for headings
+
+    if ('popup' === $documentWrapper.attr('data-elementor-type')) {
+      return $documentWrapper;
+    } // If the TOC container is anything other than a popup, scan only the post/page content for headings
+
+
+    return jQuery(settings.selectors.postContentContainer);
+  }
+
+  bindEvents() {
+    const elementSettings = this.getElementSettings();
+
+    if (elementSettings.minimize_box) {
+      this.elements.$expandButton.on('click', () => this.expandBox());
+      this.elements.$collapseButton.on('click', () => this.collapseBox());
+    }
+
+    if (elementSettings.collapse_subitems) {
+      this.elements.$listItems.on('hover', event => jQuery(event.target).slideToggle());
+    }
+  }
+
+  getHeadings() {
+    // Get all headings from document by user-selected tags
+    const elementSettings = this.getElementSettings(),
+          tags = elementSettings.headings_by_tags.join(','),
+          selectors = this.getSettings('selectors'),
+          excludedSelectors = elementSettings.exclude_headings_by_selector;
+    return this.elements.$pageContainer.find(tags).not(selectors.headerTitle).filter((index, heading) => {
+      return !jQuery(heading).closest(excludedSelectors).length; // Handle excluded selectors if there are any
+    });
+  }
+
+  addAnchorsBeforeHeadings() {
+    const classes = this.getSettings('classes'); // Add an anchor element right before each TOC heading to create anchors for TOC links
+
+    this.elements.$headings.before(index => {
+      // Check if the heading element itself has an ID, or if it is a widget which includes a main heading element, whether the widget wrapper has an ID
+      if (jQuery(this.elements.$headings[index]).data('hasOwnID')) {
+        return;
+      }
+
+      return `<span id="${classes.headingAnchor}-${index}" class="${classes.anchor} "></span>`;
+    });
+  }
+
+  activateItem($listItem) {
+    const classes = this.getSettings('classes');
+    this.deactivateActiveItem($listItem);
+    $listItem.addClass(classes.activeItem);
+    this.$activeItem = $listItem;
+
+    if (!this.getElementSettings('collapse_subitems')) {
+      return;
+    }
+
+    let $activeList;
+
+    if ($listItem.hasClass(classes.firstLevelListItem)) {
+      $activeList = $listItem.parent().next();
+    } else {
+      $activeList = $listItem.parents('.' + classes.listWrapper).eq(-2);
+    }
+
+    if (!$activeList.length) {
+      delete this.$activeList;
+      return;
+    }
+
+    this.$activeList = $activeList;
+    this.$activeList.stop().slideDown();
+  }
+
+  deactivateActiveItem($activeToBe) {
+    if (!this.$activeItem || this.$activeItem.is($activeToBe)) {
+      return;
+    }
+
+    const {
+      classes
+    } = this.getSettings();
+    this.$activeItem.removeClass(classes.activeItem);
+
+    if (this.$activeList && (!$activeToBe || !this.$activeList[0].contains($activeToBe[0]))) {
+      this.$activeList.slideUp();
+    }
+  }
+
+  followAnchor($element, index) {
+    const anchorSelector = $element[0].hash;
+    let $anchor;
+
+    try {
+      // `decodeURIComponent` for UTF8 characters in the hash.
+      $anchor = jQuery(decodeURIComponent(anchorSelector));
+    } catch (e) {
+      return;
+    }
+
+    elementorFrontend.waypoint($anchor, direction => {
+      if (this.itemClicked) {
+        return;
+      }
+
+      const id = $anchor.attr('id');
+
+      if ('down' === direction) {
+        this.viewportItems[id] = true;
+        this.activateItem($element);
+      } else {
+        delete this.viewportItems[id];
+        this.activateItem(this.$listItemTexts.eq(index - 1));
+      }
+    }, {
+      offset: 'bottom-in-view',
+      triggerOnce: false
+    });
+    elementorFrontend.waypoint($anchor, direction => {
+      if (this.itemClicked) {
+        return;
+      }
+
+      const id = $anchor.attr('id');
+
+      if ('down' === direction) {
+        delete this.viewportItems[id];
+
+        if (Object.keys(this.viewportItems).length) {
+          this.activateItem(this.$listItemTexts.eq(index + 1));
+        }
+      } else {
+        this.viewportItems[id] = true;
+        this.activateItem($element);
+      }
+    }, {
+      offset: 0,
+      triggerOnce: false
+    });
+  }
+
+  followAnchors() {
+    this.$listItemTexts.each((index, element) => this.followAnchor(jQuery(element), index));
+  }
+
+  populateTOC() {
+    this.listItemPointer = 0;
+    const elementSettings = this.getElementSettings();
+
+    if (elementSettings.hierarchical_view) {
+      this.createNestedList();
+    } else {
+      this.createFlatList();
+    }
+
+    this.$listItemTexts = this.$element.find('.elementor-toc__list-item-text');
+    this.$listItemTexts.on('click', this.onListItemClick.bind(this));
+
+    if (!elementorFrontend.isEditMode()) {
+      this.followAnchors();
+    }
+  }
+
+  createNestedList() {
+    this.headingsData.forEach((heading, index) => {
+      heading.level = 0;
+
+      for (let i = index - 1; i >= 0; i--) {
+        const currentOrderedItem = this.headingsData[i];
+
+        if (currentOrderedItem.tag <= heading.tag) {
+          heading.level = currentOrderedItem.level;
+
+          if (currentOrderedItem.tag < heading.tag) {
+            heading.level++;
+          }
+
+          break;
+        }
+      }
+    });
+    this.elements.$tocBody.html(this.getNestedLevel(0));
+  }
+
+  createFlatList() {
+    this.elements.$tocBody.html(this.getNestedLevel());
+  }
+
+  getNestedLevel(level) {
+    const settings = this.getSettings(),
+          elementSettings = this.getElementSettings(),
+          icon = this.getElementSettings('icon');
+    let renderedIcon;
+
+    if (icon) {
+      // We generate the icon markup in PHP and make it available via get_frontend_settings(). As a result, the
+      // rendered icon is not available in the editor, so in the editor we use the regular <i> tag.
+      if (elementorFrontend.config.experimentalFeatures.e_font_icon_svg && !elementorFrontend.isEditMode()) {
+        renderedIcon = icon.rendered_tag;
+      } else {
+        renderedIcon = `<i class="${icon.value}"></i>`;
+      }
+    } // Open new list/nested list
+
+
+    let html = `<${settings.listWrapperTag} class="${settings.classes.listWrapper}">`; // for each list item, build its markup.
+
+    while (this.listItemPointer < this.headingsData.length) {
+      const currentItem = this.headingsData[this.listItemPointer];
+      let listItemTextClasses = settings.classes.listItemText;
+
+      if (0 === currentItem.level) {
+        // If the current list item is a top level item, give it the first level class
+        listItemTextClasses += ' ' + settings.classes.firstLevelListItem;
+      }
+
+      if (level > currentItem.level) {
+        break;
+      }
+
+      if (level === currentItem.level) {
+        html += `<li class="${settings.classes.listItem}">`;
+        html += `<div class="${settings.classes.listTextWrapper}">`;
+        let liContent = `<a href="#${currentItem.anchorLink}" class="${listItemTextClasses}">${currentItem.text}</a>`; // If list type is bullets, add the bullet icon as an <i> tag
+
+        if ('bullets' === elementSettings.marker_view && icon) {
+          liContent = `${renderedIcon}${liContent}`;
+        }
+
+        html += liContent;
+        html += '</div>';
+        this.listItemPointer++;
+        const nextItem = this.headingsData[this.listItemPointer];
+
+        if (nextItem && level < nextItem.level) {
+          // If a new nested list has to be created under the current item,
+          // this entire method is called recursively (outside the while loop, a list wrapper is created)
+          html += this.getNestedLevel(nextItem.level);
+        }
+
+        html += '</li>';
+      }
+    }
+
+    html += `</${settings.listWrapperTag}>`;
+    return html;
+  }
+
+  handleNoHeadingsFound() {
+    let noHeadingsText = elementorProFrontend.config.i18n.toc_no_headings_found;
+
+    if (elementorFrontend.isEditMode()) {
+      noHeadingsText = elementorPro.translate('toc_no_headings_found');
+    }
+
+    return this.elements.$tocBody.html(noHeadingsText);
+  }
+
+  collapseOnInit() {
+    const minimizedOn = this.getElementSettings('minimized_on'),
+          currentDeviceMode = elementorFrontend.getCurrentDeviceMode();
+
+    if ('tablet' === minimizedOn && 'desktop' !== currentDeviceMode || 'mobile' === minimizedOn && 'mobile' === currentDeviceMode) {
+      this.collapseBox();
+    }
+  }
+
+  getHeadingAnchorLink(index, classes) {
+    const headingID = this.elements.$headings[index].id,
+          wrapperID = this.elements.$headings[index].closest('.elementor-widget').id;
+    let anchorLink = '';
+
+    if (headingID) {
+      anchorLink = headingID;
+    } else if (wrapperID) {
+      // If the heading itself has an ID, we don't want to overwrite it
+      anchorLink = wrapperID;
+    } // If there is no existing ID, use the heading text to create a semantic ID
+
+
+    if (headingID || wrapperID) {
+      jQuery(this.elements.$headings[index]).data('hasOwnID', true);
+    } else {
+      anchorLink = `${classes.headingAnchor}-${index}`;
+    }
+
+    return anchorLink;
+  }
+
+  setHeadingsData() {
+    this.headingsData = [];
+    const classes = this.getSettings('classes'); // Create an array for simplifying TOC list creation
+
+    this.elements.$headings.each((index, element) => {
+      const anchorLink = this.getHeadingAnchorLink(index, classes);
+      this.headingsData.push({
+        tag: +element.nodeName.slice(1),
+        text: element.textContent,
+        anchorLink
+      });
+    });
+  }
+
+  run() {
+    this.elements.$headings = this.getHeadings();
+
+    if (!this.elements.$headings.length) {
+      return this.handleNoHeadingsFound();
+    }
+
+    this.setHeadingsData();
+
+    if (!elementorFrontend.isEditMode()) {
+      this.addAnchorsBeforeHeadings();
+    }
+
+    this.populateTOC();
+
+    if (this.getElementSettings('minimize_box')) {
+      this.collapseOnInit();
+    }
+  }
+
+  expandBox() {
+    const boxHeight = this.getCurrentDeviceSetting('min_height');
+    this.$element.removeClass(this.getSettings('classes.collapsed'));
+    this.elements.$tocBody.slideDown(); // return container to the full height in case a min-height is defined by the user
+
+    this.elements.$widgetContainer.css('min-height', boxHeight.size + boxHeight.unit);
+  }
+
+  collapseBox() {
+    this.$element.addClass(this.getSettings('classes.collapsed'));
+    this.elements.$tocBody.slideUp(); // close container in case a min-height is defined by the user
+
+    this.elements.$widgetContainer.css('min-height', '0px');
+  }
+
+  onInit(...args) {
+    super.onInit(...args);
+    this.viewportItems = [];
+    jQuery(() => this.run());
+  }
+
+  onListItemClick(event) {
+    this.itemClicked = true;
+    setTimeout(() => this.itemClicked = false, 2000);
+    const $clickedItem = jQuery(event.target),
+          $list = $clickedItem.parent().next(),
+          collapseNestedList = this.getElementSettings('collapse_subitems');
+    let listIsActive;
+
+    if (collapseNestedList && $clickedItem.hasClass(this.getSettings('classes.firstLevelListItem'))) {
+      if ($list.is(':visible')) {
+        listIsActive = true;
+      }
+    }
+
+    this.activateItem($clickedItem);
+
+    if (collapseNestedList && listIsActive) {
+      $list.slideUp();
+    }
+  }
+
+}
+
+exports.default = TOCHandler;
+
+/***/ })
+
+}]);
+//# sourceMappingURL=table-of-contents.0744140055afdd9bf411.bundle.js.map
