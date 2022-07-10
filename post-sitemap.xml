@@ -1,84 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://adsconcierge.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://adsconcierge.com/facebook-ads/que-es-un-trafficker-digital-y-cuales-son-sus-funciones</loc>
-		<lastmod>2022-06-09T10:51:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://adsconcierge.com/tendencias-de-marketing-digital/guia-definitiva-como-hacer-reels-en-instagram-que-arrasen</loc>
-		<lastmod>2022-06-07T16:34:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://adsconcierge.com/tendencias-de-marketing-digital/que-es-el-video-marketing-y-como-hacerlo-bien</loc>
-		<lastmod>2022-06-06T14:25:33+00:00</lastmod>
+		<loc>https://adsconcierge.com/facebook-ads/tendencias-de-campanas-de-marketing-en-el-2022</loc>
+		<lastmod>2022-07-10T22:15:26+00:00</lastmod>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/06/video-marketing.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/Tendencias-de-campanas-de-marketing-en-el-2022.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/06/hacer-video-marketing.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://adsconcierge.com/instagram-ads/aprende-a-analizar-las-estadisticas-de-instagram-de-una-vez-por-todas</loc>
-		<lastmod>2022-06-01T08:39:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://adsconcierge.com/facebook-ads/como-hacer-campanas-de-video-en-facebook-ads</loc>
-		<lastmod>2022-05-26T08:15:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/facebook-ads.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/tendencias-de-marketing-digital.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/video-facebook-ads.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/influencers.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/presupuesto-facebook-ads.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/campanas-facebook-ads.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/audiencia-facebook-ads.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/ubicacion-anuncios-facebook-ads.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/subir-video-facebook-ads.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/facebook-ads.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://adsconcierge.com/tendencias-de-marketing-digital/que-es-el-marketing-de-guerrilla-ejemplos-reales-que-arrasaron</loc>
-		<lastmod>2022-05-18T10:02:20+00:00</lastmod>
+		<loc>https://adsconcierge.com/marketing-automation/embudo-de-ventas</loc>
+		<lastmod>2022-07-10T22:15:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/publicidad-netflix.jpeg</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/embudo-de-ventas.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/kitkat.jpg</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/groupon.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/frontline.jpg</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/ejemplo-funnel-botegga-verde.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/McDonalds.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/nike.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/dentista-publicidad.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/vegetariano-marketing.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/barbacoa-publicidad.jpg</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/ejemplo-funnel-tidal.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://adsconcierge.com/linkedin-ads/todo-lo-que-debes-saber-sobre-publicidad-en-linkedin-ads</loc>
-		<lastmod>2022-05-09T15:39:31+00:00</lastmod>
+		<loc>https://adsconcierge.com/marketing-automation/que-es-un-lead-magnet-y-como-crear-uno-efectivo</loc>
+		<lastmod>2022-07-10T22:15:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/lead-magnet-descuentos.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/lead-magnet-curso-gratis.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/lead-magnet-masterclass.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/lead-magnet-taller-gratis.png</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>https://adsconcierge.com/tendencias-de-marketing-digital/herramientas-para-sorteos-en-instagram-que-sean-un-bombazo</loc>
-		<lastmod>2022-04-13T08:06:56+00:00</lastmod>
+		<loc>https://adsconcierge.com/marketing-automation/los-recursos-top-1-para-marketing-digital</loc>
+		<lastmod>2022-07-10T22:14:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://adsconcierge.com/marketing-automation/mid-funnel-1-gigante-del-marketing</loc>
+		<lastmod>2022-07-10T22:14:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://adsconcierge.com/marketing-automation/herramientas-para-sorteos-en-instagram-que-sean-un-bombazo</loc>
+		<lastmod>2022-07-10T22:14:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/easypromos.png</image:loc>
 		</image:image>
@@ -108,59 +91,92 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://adsconcierge.com/planes-de-marketing/el-calendario-del-community-manager-ideal-en-2022</loc>
-		<lastmod>2022-04-12T11:32:39+00:00</lastmod>
+		<loc>https://adsconcierge.com/marketing-automation/publicidad-abc-para-mejorar-tus-estrategias</loc>
+		<lastmod>2022-07-10T22:14:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://adsconcierge.com/tendencias-de-marketing-digital/que-es-un-lead-magnet-y-como-crear-uno-efectivo</loc>
-		<lastmod>2022-04-05T11:34:06+00:00</lastmod>
+		<loc>https://adsconcierge.com/marketing-automation/que-es-el-marketing-de-guerrilla-ejemplos-reales-que-arrasaron</loc>
+		<lastmod>2022-07-10T22:14:13+00:00</lastmod>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/lead-magnet-descuentos.jpg</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/publicidad-netflix.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/lead-magnet-curso-gratis.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/kitkat.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/lead-magnet-masterclass.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/frontline.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/lead-magnet-taller-gratis.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://adsconcierge.com/tendencias-de-marketing-digital/embudo-de-ventas</loc>
-		<lastmod>2022-04-04T11:43:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/embudo-de-ventas.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/McDonalds.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/groupon.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/nike.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/ejemplo-funnel-botegga-verde.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/dentista-publicidad.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/ejemplo-funnel-tidal.png</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/vegetariano-marketing.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/barbacoa-publicidad.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://adsconcierge.com/tendencias-de-marketing-digital/tendencias-de-campanas-de-marketing-en-el-2022</loc>
-		<lastmod>2022-04-03T19:29:08+00:00</lastmod>
+		<loc>https://adsconcierge.com/marketing-automation/que-es-el-video-marketing-y-como-hacerlo-bien</loc>
+		<lastmod>2022-07-10T22:14:06+00:00</lastmod>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/Tendencias-de-campanas-de-marketing-en-el-2022.jpg</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/06/video-marketing.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/tendencias-de-marketing-digital.jpg</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/06/hacer-video-marketing.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://adsconcierge.com/marketing-automation/guia-definitiva-como-hacer-reels-en-instagram-que-arrasen</loc>
+		<lastmod>2022-07-10T22:13:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://adsconcierge.com/marketing-automation/plan-de-marketing-en-1-click</loc>
+		<lastmod>2022-07-10T22:13:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://adsconcierge.com/marketing-automation/el-calendario-del-community-manager-ideal-en-2022</loc>
+		<lastmod>2022-07-10T22:13:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://adsconcierge.com/facebook-ads/que-es-un-trafficker-digital-y-cuales-son-sus-funciones</loc>
+		<lastmod>2022-06-09T10:51:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://adsconcierge.com/instagram-ads/aprende-a-analizar-las-estadisticas-de-instagram-de-una-vez-por-todas</loc>
+		<lastmod>2022-06-01T08:39:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://adsconcierge.com/facebook-ads/como-hacer-campanas-de-video-en-facebook-ads</loc>
+		<lastmod>2022-05-26T08:15:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/facebook-ads.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/influencers.jpg</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/video-facebook-ads.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/campanas-facebook-ads.jpg</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/presupuesto-facebook-ads.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/04/facebook-ads.jpg</image:loc>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/audiencia-facebook-ads.png</image:loc>
 		</image:image>
+		<image:image>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/ubicacion-anuncios-facebook-ads.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://adsconcierge.com/wp-content/uploads/sites/3/2022/05/subir-video-facebook-ads.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://adsconcierge.com/linkedin-ads/todo-lo-que-debes-saber-sobre-publicidad-en-linkedin-ads</loc>
+		<lastmod>2022-05-09T15:39:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://adsconcierge.com/instagram-ads/como-conseguir-seguidores-en-instagram-todas-las-vias-para-hacerlo</loc>
@@ -181,28 +197,12 @@
 		<lastmod>2022-04-16T10:00:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://adsconcierge.com/tendencias-de-marketing-digital/publicidad-abc-para-mejorar-tus-estrategias</loc>
-		<lastmod>2022-04-13T10:00:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://adsconcierge.com/tendencias-de-marketing-digital/mid-funnel-1-gigante-del-marketing</loc>
-		<lastmod>2022-04-10T10:00:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://adsconcierge.com/tendencias-de-marketing-digital/los-recursos-top-1-para-marketing-digital</loc>
-		<lastmod>2022-04-07T10:00:57+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://adsconcierge.com/facebook-ads/facebook-ads-desde-0</loc>
 		<lastmod>2022-04-04T10:00:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://adsconcierge.com/marketing-automation/el-123-de-la-automatizacion-del-marketing</loc>
 		<lastmod>2022-03-26T10:00:03+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://adsconcierge.com/planes-de-marketing/plan-de-marketing-en-1-click</loc>
-		<lastmod>2022-04-01T10:00:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://adsconcierge.com/facebook-ads/la-dinamica-de-facebook-ads-100-conversion</loc>
